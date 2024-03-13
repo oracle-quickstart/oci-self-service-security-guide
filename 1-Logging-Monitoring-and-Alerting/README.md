@@ -9,7 +9,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <th>URL</th>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h2>Enable Resource Logging</h2></td>
+    <td colspan="2" align="center"><h3>Enable Resource Logging</h3></td>
   </tr>
   <tr>
     <td>Enabling Logging for a resource</td>
@@ -28,7 +28,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://blogs.oracle.com/cloud-infrastructure/post/oci-flow-logs-enhancements-network-monitoring</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h2>SIEM Integration</h2></td>
+    <td colspan="2" align="center"><h3>SIEM Integration</h3></td>
   </tr>
   <tr>
     <td>Design Guidance for SIEM Integration</td>
@@ -144,7 +144,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/oci-logging-analytics-best-practices-log-parsing-and-enrichment</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h2>Notifications,Monitoring & Alerting</h2></td>
+    <td colspan="2" align="center"><h3>Notifications,Monitoring & Alerting</h3></td>
   </tr>
   <tr>
     <td>Notification Overview</td>
