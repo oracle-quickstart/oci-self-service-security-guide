@@ -21,6 +21,11 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/cloud/paas/data-safe/</td>
   </tr>
    <tr>
+    <td>Simplify Database Security Posture Management with Oracle Data Safe</td>
+    <td>https://docs.oracle.com/en/learn/oracle-datasafe-db-security-mgmt/#audience</td>
+  </tr>
+
+  <tr>
     <td>Oracle Data Safe: Continuous Assessment and Drift Detection</td>
     <td>https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_event_id=339826926174411022084472967537894259948&session=205641170939544</td>
   </tr>
