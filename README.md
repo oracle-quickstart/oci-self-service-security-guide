@@ -19,7 +19,7 @@ The resources within this repository are thoughtfully organized into six distinc
 Feel free to navigate through the respective folders to access a wealth of knowledge and tools designed to optimize your OCI environment, aligning it seamlessly with the CIS OCI Foundations Benchmark and Oracle Best Practices. We encourage you to leverage these resources to strengthen your OCI implementation's security, performance, and overall operational excellence.
 
 ## How to Use
-Inside each domain folder, you'll find a table listing resource titles and their corresponding URLs.These resources are carefully selected to aid you in enhancing specific aspects of your OCI implementation.
+Inside each domain folder, you'll find a table listing resource titles and their corresponding URLs. These resources are carefully selected to aid you in enhancing specific aspects of your OCI implementation.
 
 1. Navigate to the relevant domain folder.
 2. Explore the table of resources, each with an associated URL.
