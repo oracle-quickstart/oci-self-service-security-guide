@@ -39,6 +39,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en-us/iaas/Content/Network/Troubleshoot/drgredundancy.htm</td>
   </tr>
   <tr>
+    <td>Finding the DRG Upgrade Status</td>
+    <td>https://docs.oracle.com/en-us/iaas/Content/Network/Tasks/drg-get-upgrade-status.htm#drg-get_upgrade_status</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><h2>Network Monitoring</h2></td>
 </tr>
 <tr>
