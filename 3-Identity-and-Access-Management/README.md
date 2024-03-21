@@ -115,7 +115,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><h3>MFA</strong></h3></td>
   </tr>
    <tr>
-    <td>MFA for OCI Users</td>
+    <td>MFA for Local OCI Users</td>
     <td>https://blogs.oracle.com/cloud-infrastructure/post/multi-factor-authentication-for-oracle-cloud-infrastructure-users</td>
   </tr>
    <tr>
