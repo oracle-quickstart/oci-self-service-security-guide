@@ -119,7 +119,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://blogs.oracle.com/cloud-infrastructure/post/multi-factor-authentication-for-oracle-cloud-infrastructure-users</td>
   </tr>
    <tr>
-    <td colspan="2" align="center"><h3>IAM Policies, Groups and Compartments</h3></td>
+    <td colspan="2" align="center" id="iam"><h3>IAM Policies, Groups and Compartments</h3></td>
   </tr>
    <tr>
     <td>OCI IAM Policies Best Practices</td>
