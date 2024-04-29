@@ -80,6 +80,13 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://blogs.oracle.com/cloud-infrastructure/post/observe-oracle-cloud-infrastructure-with-ibm-qradar</td>
   </tr>
   <tr>
+    <td colspan="2" align="center"><strong>Cribl Integration</strong></td>
+  </tr>
+  <tr>
+    <td>Integrate OCI Logging with Cribl using OCI Streaming</td>
+    <td>https://blogs.oracle.com/cloud-infrastructure/post/integrate-oci-logging-cribl-oci-streaming</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><strong>Rapid7 Integration</strong></td>
   </tr>
   <tr>
