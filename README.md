@@ -16,6 +16,8 @@ The resources within this repository are thoughtfully organized into six distinc
 
 [**Database Security**](https://github.com/oracle-quickstart/oci-self-service-security-guide/tree/main/6-Database-Security): Within this domain, you'll find resources/URLs specifically tailored to enhance the security of your OCI databases, aligning with recommended practices.
 
+We have also include a [**CIS OCI Landing Zone**](https://github.com/oracle-quickstart/oci-self-service-security-guide/tree/main/7-CIS-OCI-Landing-Zone) folder that contains useful links to Landing Zone specific blogs and documentation. 
+
 Feel free to navigate through the respective folders to access a wealth of knowledge and tools designed to optimize your OCI environment, aligning it seamlessly with the CIS OCI Foundations Benchmark and Oracle Best Practices. We encourage you to leverage these resources to strengthen your OCI implementation's security, performance, and overall operational excellence.
 
 ## How to Use
