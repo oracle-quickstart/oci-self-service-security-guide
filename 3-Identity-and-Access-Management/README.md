@@ -88,29 +88,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Integrate Okta with Identity Domains for Single Sign-On and user provisioning</td>
     <td> https://docs.oracle.com/en/learn/integrating-identity-domains-with-okta/index.html</td>
   </tr>
-  <tr>
-    <td colspan="2" align="center"><h3>IAM without Identity Domains</h3></td>
-  </tr>
-   <tr>
-    <td>Federating with Microsoft Active Directory</td>
-    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Tasks/federatingADFS.htm</td>
-  </tr>
-  <tr>
-    <td>Federating with Microsoft Azure Active Directory</td>
-    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Tasks/federatingADFSazure.htm</td>
-  </tr>
-  <tr>
-    <td>Federating with SAML 2.0 Identity Providers</td>
-    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Tasks/federatingSAML.htm</td>
-  </tr>
-  <tr>
-    <td>How to bring Azure AD users and groups into IDCS</td>
-    <td>https://www.ateam-oracle.com/post/how-to-bring-azure-ad-users-and-groups-into-idcs</td>
-  </tr>
-  <tr>
-    <td>User Provisioning for Federated Users</td>
-    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Tasks/usingscim.htm</td>
-  </tr>
    <tr>
     <td colspan="2" align="center"><h3>MFA</strong></h3></td>
   </tr>
@@ -140,6 +117,29 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>Resource Organization</td>
     <td>https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-2</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h3>IAM without Identity Domains</h3> (To be deprecated)</td>
+  </tr>
+   <tr>
+    <td>Federating with Microsoft Active Directory</td>
+    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Tasks/federatingADFS.htm</td>
+  </tr>
+  <tr>
+    <td>Federating with Microsoft Azure Active Directory</td>
+    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Tasks/federatingADFSazure.htm</td>
+  </tr>
+  <tr>
+    <td>Federating with SAML 2.0 Identity Providers</td>
+    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Tasks/federatingSAML.htm</td>
+  </tr>
+  <tr>
+    <td>How to bring Azure AD users and groups into IDCS</td>
+    <td>https://www.ateam-oracle.com/post/how-to-bring-azure-ad-users-and-groups-into-idcs</td>
+  </tr>
+  <tr>
+    <td>User Provisioning for Federated Users</td>
+    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Tasks/usingscim.htm</td>
   </tr>
 </table>
 
