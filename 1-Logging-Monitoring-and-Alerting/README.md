@@ -76,8 +76,8 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><strong>Qradar Integration</strong></td>
   </tr>
   <tr>
-    <td>Qradar Integration Overview (Step by step guide for Qradar Integration - Coming soon)</td>
-    <td>https://blogs.oracle.com/cloud-infrastructure/post/observe-oracle-cloud-infrastructure-with-ibm-qradar</td>
+    <td>Move Logs from Oracle Cloud Infrastructure to IBM QRadar</td>
+    <td>https://docs.oracle.com/en/learn/move-ocilogs-to-ibmqradar/</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Cribl Integration</strong></td>
