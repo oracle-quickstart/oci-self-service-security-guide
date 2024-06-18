@@ -21,7 +21,7 @@ The following table summarizes the curated list of resource URLs for this domain
   </tr>
   <tr>
     <td>OCI Functions to send cost usage report via email</td>
-    <td>https://docs.oracle.com/en/learn/send-cost-usage-report-via-email/#introduction</td>
+    <td>https://docs.oracle.com/en/learn/send-cost-usage-report-via-email</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Tagging</strong></td>
