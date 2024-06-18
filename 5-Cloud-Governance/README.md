@@ -63,6 +63,17 @@ The following table summarizes the curated list of resource URLs for this domain
     <td> https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-4</td>
   </tr>
   <tr>
+    <td colspan="2" align="center"><strong>Tenancy Cleanup</strong></td>
+  </tr>
+  <tr>
+    <td>OCI Extirpater command line tool blog</td>
+    <td>The OCI Extirpater is a command line tool that deletes everything within a compartment in every subscribed OCI region.<br>https://www.ateam-oracle.com/post/cleanup-an-oci-compartment</td>
+  </tr>
+<tr>
+    <td>OCI Extirpater Github repo</td>
+    <td>https://github.com/therealcmj/ociextirpater</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><strong>OCI Cloud Adoption Framework</strong></td>
   </tr>
   <tr>
