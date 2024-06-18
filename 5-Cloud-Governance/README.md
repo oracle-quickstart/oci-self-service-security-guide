@@ -9,7 +9,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <th>URL</th>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>OCI Budgets</strong></td>
+    <td colspan="2" align="center"><strong>OCI Budgets and Cost Management</strong></td>
   </tr>
   <tr>
     <td>Creating a Budget</td>
@@ -18,6 +18,10 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>Quickly and easily apply budgets to manage your OCI spending</td>
     <td>https://www.ateam-oracle.com/post/apply-budgets-easily</td>
+  </tr>
+  <tr>
+    <td>OCI Functions to send cost usage report via email</td>
+    <td>https://docs.oracle.com/en/learn/send-cost-usage-report-via-email/#introduction</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Tagging</strong></td>
@@ -34,6 +38,11 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Implementing Naming Convention for OCI Resources using Tagging</td>
     <td> https://www.ateam-oracle.com/post/implementing-naming-convention-for-oci-resources-using-tagging</td>
   </tr>
+  <tr>
+    <td>Viewing all Free-Form tags in a Tenancy</td>
+    <td>https://www.ateam-oracle.com/post/how-to-get-a-list-of-all-freeform-tags-in-your-tenancy</td>
+  </tr>
+
   <tr>
     <td colspan="2" align="center"><strong>Cloud Governance Model</strong></td>
   </tr>
