@@ -83,7 +83,7 @@ The following table summarizes the curated list of resource URLs for this domain
   </tr>
   <tr>
     <td>Comprehensive Security Coverage for Oracle Cloud</td>
-    <td>https://orca.security/resources/video/comprehensive-security-oracle-cloud</td>
+    <td>https://orca.security/resources/video/comprehensive-security-oracle-cloud/</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Qualys TotalCloud</strong></td>
