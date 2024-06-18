@@ -25,7 +25,7 @@ The following table summarizes the curated list of resource URLs for this domain
   </tr>
   <tr>
     <td>Tuning Oracle Cloud Guard</td>
-    <td>https://www.ateam-oracle.com/post/tuning-oracle-cloud-guard</td>
+    <td>https://blogs.oracle.com/ateam/post/cloud-guard-tuning-tips</td>
   </tr>
   <tr>
     <td>Configuring Cloud Guard Notifications</td>
