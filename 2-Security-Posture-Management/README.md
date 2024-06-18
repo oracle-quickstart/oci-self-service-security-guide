@@ -13,7 +13,7 @@ The following table summarizes the curated list of resource URLs for this domain
   </tr>
   <tr>
     <td>Intro to Cloud Guard</td>
-    <td>https://youtu.be/WrEBDKJxSjo</td>
+    <td>https://www.youtube.com/watch?v=WrEBDKJxSjo</td>
   </tr>
   <tr>
     <td>Oracle Cloud Guard: Quick-Start Guide</td>
