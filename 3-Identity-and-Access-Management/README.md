@@ -92,7 +92,14 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Integrate Okta with Identity Domains for Single Sign-On and user provisioning</td>
     <td> https://docs.oracle.com/en/learn/integrating-identity-domains-with-okta/index.html</td>
   </tr>
-   <tr>
+<tr>
+    <td colspan="2" align="center"><h3>OCI Identity Domains with Google Workspace</h3></td>
+  </tr>
+  <tr>
+    <td>Federating OCI Identity Domains with Google Workspace</td>
+    <td>https://www.ateam-oracle.com/post/federating-oci-identity-domains-with-google-workspace</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><h3>MFA</strong></h3></td>
   </tr>
    <tr>
