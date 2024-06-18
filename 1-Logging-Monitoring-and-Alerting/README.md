@@ -116,6 +116,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/learn/logs_oci_datadog/index.html</td>
   </tr>
   <tr>
+    <td>Integrate Oracle Cloud Infrastructure and Datadog using Datadog Observability Pipelines</td>
+    <td>https://docs.oracle.com/en/learn/integrate-oci-and-datadog/</td>
+  </tr>
+  <tr>
     <td>Datadog Observability Pipelines(Generic Integration pattern)</td>
     <td>https://docs.datadoghq.com/observability_pipelines 
     (Use OCI Streams as source of type 'kafka' and 'datadog logs' as destination)</td>
