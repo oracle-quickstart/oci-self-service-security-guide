@@ -50,16 +50,12 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/oci-networking-best-practices-part-four-oci-network-monitoring-observability-and-management</td>
   </tr>
   <tr>
-    <td>VCN flow logs</td>
-    <td>https://blogs.oracle.com/cloud-infrastructure/post/announcing-vcn-flow-logs-general-availability-for-oracle-cloud-infrastructure</td>
-  </tr>
-  <tr>
     <td>VCN Flow logs concepts</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/vcn-flow-logs.htm</td>
   </tr>
   <tr>
-    <td>OCI Flow Logs Enhancements</td>
-    <td>https://blogs.oracle.com/cloud-infrastructure/post/oci-flow-logs-enhancements-network-monitoring</td>
+    <td>OCI Flow Logs with Capture Filters</td>
+    <td>https://www.youtube.com/watch?v=cA9EA5y6k3c&t=4s</td>
   </tr>
 
 </table>
