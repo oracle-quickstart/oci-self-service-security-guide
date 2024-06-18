@@ -155,6 +155,15 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/oci-logging-analytics-best-practices-log-parsing-and-enrichment</td>
   </tr>
   <tr>
+    <td>How-to videos about OCI Logging Analytics</td>
+    <td>https://www.youtube.com/playlist?list=PLiuPvpy8QsiVYPDnELq446iS8pmCV0AvD</td>
+  </tr>
+  <tr>
+    <td>Day One and Beyond: Logging Analytics for Enhancing Performance and Security</td>
+    <td>https://www.ateam-oracle.com/post/day-one-and-beyond-webinar-logging-analytics-for-enhancing-performance-and-security</td>
+  </tr>
+
+  <tr>
     <td colspan="2" align="center"><h3>Notifications,Monitoring & Alerting</h3></td>
   </tr>
   <tr>
