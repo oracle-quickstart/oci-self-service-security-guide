@@ -51,7 +51,7 @@ The following table summarizes the curated list of resource URLs for this domain
   </tr>
   <tr>
     <td>Implement a SIEM system in Splunk using logs streamed from Oracle Cloud(Example Terraform code)</td>
-    <td>https://docs.oracle.com/en/solutions/logs-stream-splunk</td>
+    <td>https://docs.oracle.com/en/solutions/logs-stream-splunk/</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Azure Sentinel Integration</strong></td>
@@ -109,7 +109,7 @@ The following table summarizes the curated list of resource URLs for this domain
   </tr>
   <tr>
     <td>Datadog Integration(using OCI Functions)</td>
-    <td>https://docs.datadoghq.com/integrations/oracle_cloud_infrastructure</td>
+    <td>https://docs.datadoghq.com/integrations/oracle_cloud_infrastructure/</td>
   </tr>
    <tr>
     <td>Datadog Integration(using OCI Functions)</td>
@@ -121,7 +121,7 @@ The following table summarizes the curated list of resource URLs for this domain
   </tr>
   <tr>
     <td>Datadog Observability Pipelines(Generic Integration pattern)</td>
-    <td>https://docs.datadoghq.com/observability_pipelines 
+    <td>https://docs.datadoghq.com/observability_pipelines/ 
     (Use OCI Streams as source of type 'kafka' and 'datadog logs' as destination)</td>
   </tr>
  <tr>
