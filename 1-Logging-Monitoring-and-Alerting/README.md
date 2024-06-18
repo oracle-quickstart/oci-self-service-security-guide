@@ -162,6 +162,11 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/oci-observability-and-management-for-networking---part-two---notifications-for-network-changes</td>
   </tr>
    <tr>
+    <td>Empowering OCI IAM - Seamless Event-Based Integration via OCI Events Service</td>
+    <td>https://www.ateam-oracle.com/post/part-1-event-based-integration-with-oci-iam</td>
+  </tr>
+
+   <tr>
     <td>OCI basic monitor/alarms setup for FastConnect and VPN using native services</td>
     <td>https://www.ateam-oracle.com/post/oci-basic-monitoralarms-setup-for-fc-and-vpn-using-native-services</td>
   </tr>
