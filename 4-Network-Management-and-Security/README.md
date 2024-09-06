@@ -50,6 +50,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/oci-networking-best-practices-part-four-oci-network-monitoring-observability-and-management</td>
   </tr>
   <tr>
+    <td>OCI Load Balancers - Logging the real source IP</td>
+    <td>https://www.ateam-oracle.com/post/oci-load-balancers-logging-the-real-source-ip</td>
+  </tr>
+  <tr>
     <td>VCN Flow logs concepts</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/vcn-flow-logs.htm</td>
   </tr>
