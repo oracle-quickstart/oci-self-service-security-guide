@@ -28,6 +28,14 @@ The following table summarizes the curated list of resource URLs for this domain
     <td> https://www.ateam-oracle.com/post/oci-network-firewall---hub-and-spoke-traffic-inspection</td>
   </tr> 
   <tr>
+    <td>Enhancing IP Address Management with OCI New Tool – IP Address Insight</td>
+    <td>https://www.ateam-oracle.com/post/oci-ip-address-insight</td>
+  </tr> 
+  <tr>
+    <td>OCI IPv6 Unique Local IPv6 Unicast Addresses usage and considerations</td>
+    <td>https://www.ateam-oracle.com/post/oci-ipv6-unique-local-ipv6-unicast-addresses-usage-and-considerations</td>
+  </tr> 
+  <tr>
     <td colspan="2" align="center"><h2>Network Connectivity</h2></td>
 </tr>
   <tr>
