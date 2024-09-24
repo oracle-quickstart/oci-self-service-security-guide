@@ -61,7 +61,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><strong>Database Authentication</strong></td>
   </tr>
   <tr>
-    <td>Authenticating the users with OCI IAM Identity Domain with MFA using Radius Proxy for Oracle Database - Live Lab</td>
+    <td>Authenticating users with OCI IAM Identity Domain with MFA using Radius Proxy for Oracle Database - Live Lab</td>
     <td>https://oracle-livelabs.github.io/security/oci-iam-radiusproxy-mfa-db/workshops/tenancy/index.html?lab=introduction</td>
   </tr>
 </table>
