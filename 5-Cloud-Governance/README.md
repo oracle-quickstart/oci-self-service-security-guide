@@ -47,6 +47,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://blogs.oracle.com/ateam/post/bulk-editing-tags-on-resources-using-the-oci-cli</td>
   </tr>
   <tr>
+    <td>You Down With OTT (the OCI Tagging Tool)?</td>
+    <td>https://www.ateam-oracle.com/post/you-down-with-ott-the-oci-tagging-tool</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><strong>Cloud Governance Model</strong></td>
   </tr>
   <tr>
