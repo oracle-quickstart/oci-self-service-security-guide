@@ -55,6 +55,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/connecting-two-oci-regions-using-equinix-network-edge-virtual-device-main-page</td>
   </tr>
   <tr>
+    <td>Setting Up Site-to-Site VPN Connectivity from OCI to Azure Virtual WAN</td>
+    <td>https://blogs.oracle.com/ateam/post/setting-up-sitetosite-vpn-connectivity-from-oci-to-azure-virtual-wan</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><h2>Network Monitoring</h2></td>
 </tr>
 <tr>
