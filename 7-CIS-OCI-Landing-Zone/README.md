@@ -46,6 +46,10 @@ The following table summarizes the curated list of resource URLs for the CIS OCI
     <td>https://github.com/oracle-quickstart/terraform-oci-secure-workloads</td>
   </tr>
   <tr>
+    <td>CIS Landing Zone SIEM Workload Module</td>
+    <td>https://blogs.oracle.com/ateam/post/cis-landing-zone-siem-workload-module</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><h2>CIS OCI Landing Zone Enhanced Modules</h2></td>
   </tr>
   <tr>
