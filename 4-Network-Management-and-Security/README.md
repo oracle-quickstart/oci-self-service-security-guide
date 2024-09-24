@@ -35,12 +35,24 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/oci-networking-best-practices---part-3---oci-network-connectivity</td>
   </tr>
   <tr>
+    <td>FastConnect Public Peering: Architectures and Use Cases</td>
+    <td>https://blogs.oracle.com/ateam/post/fastconnect-public-peering-architectures-and-use-cases</td>
+  </tr>
+  <tr>
     <td>DRG Redundancy Remedies</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Network/Troubleshoot/drgredundancy.htm</td>
   </tr>
   <tr>
     <td>Finding the DRG Upgrade Status</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Network/Tasks/drg-get-upgrade-status.htm#drg-get_upgrade_status</td>
+  </tr>
+  <tr>
+    <td>Equinix Virtual Router Multi-cloud Connectivity - Live Lab</td>
+    <td>https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3759</td>
+  </tr>
+  <tr>
+    <td>Series: Connecting two OCI Regions using Equinix Network EDGE Virtual Device</td>
+    <td>https://www.ateam-oracle.com/post/connecting-two-oci-regions-using-equinix-network-edge-virtual-device-main-page</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><h2>Network Monitoring</h2></td>
