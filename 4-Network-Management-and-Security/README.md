@@ -59,6 +59,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://blogs.oracle.com/ateam/post/setting-up-sitetosite-vpn-connectivity-from-oci-to-azure-virtual-wan</td>
   </tr>
   <tr>
+    <td>User-based Access on OCI using OpenVPN</td>
+    <td>https://www.ateam-oracle.com/post/userbased-access-on-oci-using-openvpn</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><h2>Network Monitoring</h2></td>
 </tr>
 <tr>
