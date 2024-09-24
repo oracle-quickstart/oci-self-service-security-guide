@@ -36,6 +36,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td> https://blogs.oracle.com/cloudsecurity/post/implementing-mfa-oci-iam-identity-domains</td>
   </tr>
   <tr>
+    <td>Identifying Users in OCI IAM Domain with Local Passwords and No MFA Enabled</td>
+    <td>https://www.ateam-oracle.com/post/identifying-users-in-oci-iam-domain-with-local-passwords-and-no-mfa-enabled</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><h3>OCI IAM with Azure AD</h3></td>
   </tr>
   <tr>
