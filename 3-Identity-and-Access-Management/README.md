@@ -16,8 +16,12 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en-us/iaas/Content/Identity/policieshow/how-policies-work.htm</td>
   </tr>
   <tr>
-    <td>Minimize the number of OCI IAM Policy Statements required to implement your OCI Authorization Model</td>
+    <td>Minimize the number of OCI IAM Policy Statements required to implement your OCI Authorization Model - Part 1</td>
     <td>https://www.ateam-oracle.com/post/minimize-oci-iam-policy-statements-part-1</td>
+  </tr>
+  <tr>
+    <td>Minimize the number of OCI IAM Policy Statements required to implement your OCI Authorization Model - Part 2</td>
+    <td>https://www.ateam-oracle.com/post/minimize-oci-iam-policy-statements-part-2</td>
   </tr>
   <tr>
     <td>Best Practices for IAM in OCI - Whitepaper</td>
