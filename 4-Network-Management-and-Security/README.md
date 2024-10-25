@@ -43,7 +43,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en-us/iaas/Content/Network/Tasks/drg-get-upgrade-status.htm#drg-get_upgrade_status</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h2>Network Monitoring</h2></td>
+    <td colspan="2" align="center"><strong>Network Monitoring</strong></td>
 </tr>
 <tr>
     <td>OCI Networking Best Practices-OCI Network Monitoring, Observability, and Management</td>
