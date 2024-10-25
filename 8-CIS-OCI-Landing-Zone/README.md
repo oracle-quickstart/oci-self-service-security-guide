@@ -10,7 +10,7 @@ The following table summarizes the curated list of resource URLs for the CIS OCI
     <th>URL</th>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h2>CIS OCI Landing Zone Quickstart</h2></td>
+    <td colspan="2" align="center"><strong>CIS OCI Landing Zone Quickstart</strong></td>
   </tr>
   <tr>
     <td>Deploy a secure landing zone that meets the CIS Foundations Benchmark for Oracle Cloud</td>
@@ -41,16 +41,16 @@ The following table summarizes the curated list of resource URLs for the CIS OCI
     <td>https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart/blob/main/compliance-script.md</td>
   </tr>
   </tr>
-    <tr>
-    <td>Secure Workloads</td>
-    <td>https://github.com/oracle-quickstart/terraform-oci-secure-workloads</td>
-  </tr>
   <tr>
-    <td colspan="2" align="center"><h2>CIS OCI Landing Zone Enhanced Modules</h2></td>
+    <td colspan="2" align="center"><strong>CIS OCI Landing Zone Enhanced Modules</strong></td>
   </tr>
   <tr>
     <td>CIS Landing Zone Enhanced Modules</td>
     <td>https://blogs.oracle.com/ateam/post/cis-landing-zone-enhanced-modules</td>
+  </tr>
+  <tr>
+    <td>Secure Workloads</td>
+    <td>https://github.com/oracle-quickstart/terraform-oci-secure-workloads</td>
   </tr>
   <tr>
     <td>GitHub Repo: Identity & Access Management Modules</td>
