@@ -43,8 +43,8 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><strong>Prisma Cloud</strong></td>
   </tr>
   <tr>
-    <td>Add your OCI Tenant to Prisma Cloud</td>
-    <td>https://docs.paloaltonetworks.com/prisma/prisma-cloud/prisma-cloud-admin/connect-your-cloud-platform-to-prisma-cloud/onboard-your-oci-account/add-oci-tenant-to-prisma-cloud</td>
+    <td>Onboard Your Oracle Cloud Infrastructure Account</td>
+    <td>https://docs.prismacloud.io/en/enterprise-edition/content-collections/connect/connect-cloud-accounts/onboard-your-oci-account/onboard-your-oci-account</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>WIZ</strong></td>
