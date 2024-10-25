@@ -112,10 +112,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td> https://blog.qualys.com/product-tech/2022/11/30/qualys-broadens-security-offerings-for-oracle-cloud-infrastructure</td>
   </tr>
   <tr>
-   <td>Using CIS Hardened Images for your VMs</td>
-   <td>https://blogs.oracle.com/cloud-infrastructure/post/hardened-images-from-the-center-for-internet-security-on-oracle-cloud-marketplace</td>
-  </tr>
-  <tr>
    <td>Using 3rd party Vulnerability scanner</td>
    <td>If you are using a 3rd party enterprise-wide Vulnerability scanning tool (ex: Tenable Nessus, Rapid7, and others) our general recommendation is to use it for your OCI compute instances too.</td>
   </tr>
