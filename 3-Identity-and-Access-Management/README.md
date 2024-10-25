@@ -16,14 +16,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en-us/iaas/Content/Identity/policieshow/how-policies-work.htm</td>
   </tr>
   <tr>
-    <td>Minimize the number of OCI IAM Policy Statements required to implement your OCI Authorization Model - Part 1</td>
-    <td>https://www.ateam-oracle.com/post/minimize-oci-iam-policy-statements-part-1</td>
-  </tr>
-  <tr>
-    <td>Minimize the number of OCI IAM Policy Statements required to implement your OCI Authorization Model - Part 2</td>
-    <td>https://www.ateam-oracle.com/post/minimize-oci-iam-policy-statements-part-2</td>
-  </tr>
-  <tr>
     <td>Best Practices for IAM in OCI - Whitepaper</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/best-practices-for-iam-on-oci.pdf</td>
   </tr>
@@ -39,6 +31,38 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Identifying Users in OCI IAM Domain with Local Passwords and No MFA Enabled</td>
     <td>https://www.ateam-oracle.com/post/identifying-users-in-oci-iam-domain-with-local-passwords-and-no-mfa-enabled</td>
   </tr>
+     <tr>
+    <td colspan="2" align="center" id="iam"><h3>IAM Policies, Groups and Compartments</h3></td>
+  </tr>
+   <tr>
+    <td>OCI IAM Policies Best Practices</td>
+    <td>https://blogs.oracle.com/ateam/post/oci-iam-policies-best-practices</td>
+  </tr>
+  <tr>
+    <td>Common policies</td>
+    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Concepts/commonpolicies.htm</td>
+  </tr>
+  <tr>
+    <td>Minimize the number of OCI IAM Policy Statements required to implement your OCI Authorization Model - Part 1</td>
+    <td>https://www.ateam-oracle.com/post/minimize-oci-iam-policy-statements-part-1</td>
+  </tr>
+  <tr>
+    <td>Minimize the number of OCI IAM Policy Statements required to implement your OCI Authorization Model - Part 2</td>
+    <td>https://www.ateam-oracle.com/post/minimize-oci-iam-policy-statements-part-2</td>
+  </tr>
+  <tr>
+    <td>Best Practices for Compartments</td>
+    <td>https://blogs.oracle.com/cloud-infrastructure/post/best-practices-for-compartments</td>
+  </tr>
+  <tr>
+    <td>Oracle Cloud Infrastructure Compartments</td>
+    <td>https://www.ateam-oracle.com/post/oracle-cloud-infrastructure-compartments</td>
+  </tr>
+  <tr>
+    <td>Resource Organization</td>
+    <td>https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-2</td>
+  </tr>
+
   <tr>
     <td colspan="2" align="center"><h3>OCI IAM with Azure AD</h3></td>
   </tr>
@@ -113,29 +137,6 @@ The following table summarizes the curated list of resource URLs for this domain
    <tr>
     <td>MFA for Local OCI Users</td>
     <td>https://blogs.oracle.com/cloud-infrastructure/post/multi-factor-authentication-for-oracle-cloud-infrastructure-users</td>
-  </tr>
-   <tr>
-    <td colspan="2" align="center" id="iam"><h3>IAM Policies, Groups and Compartments</h3></td>
-  </tr>
-   <tr>
-    <td>OCI IAM Policies Best Practices</td>
-    <td>https://blogs.oracle.com/ateam/post/oci-iam-policies-best-practices</td>
-  </tr>
-  <tr>
-    <td>Common policies</td>
-    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Concepts/commonpolicies.htm</td>
-  </tr>
-  <tr>
-    <td>Best Practices for Compartments</td>
-    <td>https://blogs.oracle.com/cloud-infrastructure/post/best-practices-for-compartments</td>
-  </tr>
-  <tr>
-    <td>Oracle Cloud Infrastructure Compartments</td>
-    <td>https://www.ateam-oracle.com/post/oracle-cloud-infrastructure-compartments</td>
-  </tr>
-  <tr>
-    <td>Resource Organization</td>
-    <td>https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-2</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><h3>IAM without Identity Domains</h3> (To be deprecated)</td>
