@@ -36,7 +36,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://blogs.oracle.com/cloudsecurity/post/quick-tip-4---setting-up-notifications-for-oracle-cloud-guard-in-3-easy-steps</td>
   </tr>
   <tr>
-    <td>Sending Cloud Guard events to a 3rd party SIEM system</td>
+    <td>Aggregate Oracle Cloud Infrastructure Service Logs Using Third-Party SIEMs</td>
     <td>https://docs.oracle.com/en/solutions/oci-aggregate-logs-siem/index.html</td>
   </tr>
   <tr>
