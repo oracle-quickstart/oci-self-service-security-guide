@@ -23,5 +23,12 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Automating OCI Vault Secrets Backup: A Step-by-Step Guide</td>
     <td>https://www.ateam-oracle.com/post/automating-oci-vault-secrets-backup-a-stepbystep-guide</td>
   </tr>
+    <tr>
+    <td colspan="2" align="center"><strong>Secure Compute</strong></td>
+  </tr>
+  <tr>
+   <td>Using CIS Hardened Images for your VMs</td>
+   <td>https://blogs.oracle.com/cloud-infrastructure/post/hardened-images-from-the-center-for-internet-security-on-oracle-cloud-marketplace</td>
+  </tr>
 </table>
 
