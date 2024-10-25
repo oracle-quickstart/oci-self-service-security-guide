@@ -9,7 +9,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <th>URL</th>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h2>Network Design</h2></td>
+    <td colspan="2" align="center"><strong>Network Design</strong></td>
 </tr>
  <tr>
     <td>Network deployments on OCI</td>
@@ -28,7 +28,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td> https://www.ateam-oracle.com/post/oci-network-firewall---hub-and-spoke-traffic-inspection</td>
   </tr> 
   <tr>
-    <td colspan="2" align="center"><h2>Network Connectivity</h2></td>
+    <td colspan="2" align="center"><strong>Network Connectivity</strong></td>
 </tr>
   <tr>
     <td>OCI Network Connectivity</td>
