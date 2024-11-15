@@ -47,6 +47,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/minimize-oci-iam-policy-statements-part-2</td>
   </tr>
   <tr>
+    <td>Scaling OCI IAM policies, for ISVs</td>
+    <td>https://www.ateam-oracle.com/post/have-less-be-more-scaling-oci-iam-policies</td>
+  </tr>
+  <tr>
     <td>Best Practices for Compartments</td>
     <td>https://blogs.oracle.com/cloud-infrastructure/post/best-practices-for-compartments</td>
   </tr>
