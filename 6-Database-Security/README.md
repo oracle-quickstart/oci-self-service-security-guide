@@ -53,9 +53,16 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Connect Oracle Data Safe to Exadata and Autonomous Database</td>
     <td>https://docs.oracle.com/en/solutions/data-safe-exadata-adb/index.html</td>
   </tr>
-     <tr>
+  <tr>
     <td>Oracle Data Safe - SQL Firewall overview</td>
     <td>https://docs.oracle.com/en/cloud/paas/data-safe/udscs/sql-firewall-overview.html</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Database Authentication</strong></td>
+  </tr>
+  <tr>
+    <td>Authenticating users with OCI IAM Identity Domain with MFA using Radius Proxy for Oracle Database - Live Lab</td>
+    <td>https://oracle-livelabs.github.io/security/oci-iam-radiusproxy-mfa-db/workshops/tenancy/index.html?lab=introduction</td>
   </tr>
 </table>
 

@@ -24,6 +24,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/learn/send-cost-usage-report-via-email/</td>
   </tr>
   <tr>
+    <td>Financial Metrics</td>
+    <td>https://docs.public.oneportal.content.oci.oraclecloud.com/en-us/iaas/Content/cloud-adoption-framework/financial-metrics.htm</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><strong>Tagging</strong></td>
   </tr>
   <tr>
@@ -45,6 +49,10 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>Bulk Editing tags on resources using the OCI CLI</td>
     <td>https://blogs.oracle.com/ateam/post/bulk-editing-tags-on-resources-using-the-oci-cli</td>
+  </tr>
+  <tr>
+    <td>You Down With OTT (the OCI Tagging Tool)?</td>
+    <td>https://www.ateam-oracle.com/post/you-down-with-ott-the-oci-tagging-tool</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Cloud Governance Model</strong></td>
@@ -75,13 +83,6 @@ The following table summarizes the curated list of resource URLs for this domain
 <tr>
     <td>OCI Extirpater Github repo</td>
     <td>https://github.com/therealcmj/ociextirpater</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>OCI Cloud Adoption Framework</strong></td>
-  </tr>
-  <tr>
-    <td>Financial Metrics</td>
-    <td>https://docs.public.oneportal.content.oci.oraclecloud.com/en-us/iaas/Content/cloud-adoption-framework/financial-metrics.htm</td>
   </tr>
 </table>
 

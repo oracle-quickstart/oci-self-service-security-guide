@@ -36,15 +36,15 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://blogs.oracle.com/cloudsecurity/post/quick-tip-4---setting-up-notifications-for-oracle-cloud-guard-in-3-easy-steps</td>
   </tr>
   <tr>
-    <td>Sending Cloud Guard events to a 3rd party SIEM system</td>
+    <td>Aggregate Oracle Cloud Infrastructure Service Logs Using Third-Party SIEMs</td>
     <td>https://docs.oracle.com/en/solutions/oci-aggregate-logs-siem/index.html</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Prisma Cloud</strong></td>
   </tr>
   <tr>
-    <td>Add your OCI Tenant to Prisma Cloud</td>
-    <td>https://docs.paloaltonetworks.com/prisma/prisma-cloud/prisma-cloud-admin/connect-your-cloud-platform-to-prisma-cloud/onboard-your-oci-account/add-oci-tenant-to-prisma-cloud</td>
+    <td>Onboard Your Oracle Cloud Infrastructure Account</td>
+    <td>https://docs.prismacloud.io/en/enterprise-edition/content-collections/connect/connect-cloud-accounts/onboard-your-oci-account/onboard-your-oci-account</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>WIZ</strong></td>

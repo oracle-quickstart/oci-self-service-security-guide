@@ -51,7 +51,7 @@ The following table summarizes the curated list of resource URLs for this domain
   </tr>
   <tr>
     <td>Implement a SIEM system in Splunk using logs streamed from Oracle Cloud(Example Terraform code)</td>
-    <td>https://docs.oracle.com/en/solutions/logs-stream-splunk/</td>
+    <td>https://github.com/oracle-quickstart/oci-arch-logging-splunk</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Azure Sentinel Integration</strong></td>

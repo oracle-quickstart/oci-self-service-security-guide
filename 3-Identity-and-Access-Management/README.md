@@ -16,10 +16,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en-us/iaas/Content/Identity/policieshow/how-policies-work.htm</td>
   </tr>
   <tr>
-    <td>Minimize the number of OCI IAM Policy Statements required to implement your OCI Authorization Model</td>
-    <td>https://www.ateam-oracle.com/post/minimize-oci-iam-policy-statements-part-1</td>
-  </tr>
-  <tr>
     <td>Best Practices for IAM in OCI - Whitepaper</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/best-practices-for-iam-on-oci.pdf</td>
   </tr>
@@ -28,14 +24,60 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/oci-iam-identity-domains-best-practices</td>
   </tr>
   <tr>
+    <td>Identifying Users in OCI IAM Domain with Local Passwords and No MFA Enabled</td>
+    <td>https://www.ateam-oracle.com/post/identifying-users-in-oci-iam-domain-with-local-passwords-and-no-mfa-enabled</td>
+  </tr>
+     <tr>
+    <td colspan="2" align="center" id="iam"><h3>IAM Policies, Groups and Compartments</h3></td>
+  </tr>
+   <tr>
+    <td>OCI IAM Policies Best Practices</td>
+    <td>https://blogs.oracle.com/ateam/post/oci-iam-policies-best-practices</td>
+  </tr>
+  <tr>
+    <td>Common policies</td>
+    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Concepts/commonpolicies.htm</td>
+  </tr>
+  <tr>
+    <td>Minimize the number of OCI IAM Policy Statements required to implement your OCI Authorization Model - Part 1</td>
+    <td>https://www.ateam-oracle.com/post/minimize-oci-iam-policy-statements-part-1</td>
+  </tr>
+  <tr>
+    <td>Minimize the number of OCI IAM Policy Statements required to implement your OCI Authorization Model - Part 2</td>
+    <td>https://www.ateam-oracle.com/post/minimize-oci-iam-policy-statements-part-2</td>
+  </tr>
+  <tr>
+    <td>Scaling OCI IAM policies, for ISVs</td>
+    <td>https://www.ateam-oracle.com/post/have-less-be-more-scaling-oci-iam-policies</td>
+  </tr>
+  <tr>
+    <td>Best Practices for Compartments</td>
+    <td>https://blogs.oracle.com/cloud-infrastructure/post/best-practices-for-compartments</td>
+  </tr>
+  <tr>
+    <td>Oracle Cloud Infrastructure Compartments</td>
+    <td>https://www.ateam-oracle.com/post/oracle-cloud-infrastructure-compartments</td>
+  </tr>
+  <tr>
+    <td>Resource Organization</td>
+    <td>https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-2</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h3>MFA</strong></h3></td>
+  </tr>
+  <tr>
     <td>Enable MFA in an OCI IAM identity domain</td>
     <td> https://blogs.oracle.com/cloudsecurity/post/implementing-mfa-oci-iam-identity-domains</td>
   </tr>
-  <tr>
-    <td colspan="2" align="center"><h3>OCI IAM with Azure AD</h3></td>
+   <tr>
+    <td>MFA for Local OCI Users</td>
+    <td>https://blogs.oracle.com/cloud-infrastructure/post/multi-factor-authentication-for-oracle-cloud-infrastructure-users</td>
   </tr>
   <tr>
-    <td>OCI IAM with Azure AD Tutorials</td>
+    <td colspan="2" align="center"><h3>OCI IAM with Entra ID</h3></td>
+  </tr>
+  <tr>
+    <td>OCI IAM with Entra ID Tutorials</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Identity/tutorials/azure_ad/azure_ad_tutorials.htm</td>
   </tr>
   <tr>
@@ -43,15 +85,15 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en-us/iaas/Content/Identity/tutorials/azure_ad/sso_azure/azure_sso.htm#azure-sso</td>
   </tr>
   <tr>
-    <td>Identity Lifecycle Management Between OCI IAM and Azure AD</td>
+    <td>Identity Lifecycle Management Between OCI IAM and Entra ID</td>
     <td> https://docs.oracle.com/en-us/iaas/Content/Identity/tutorials/azure_ad/lifecycle_azure/azure_lifecycle.htm#azure-lifecycle</td>
   </tr>
   <tr>
-    <td>JIT Provisioning from Azure AD to OCI IAM</td>
+    <td>JIT Provisioning from Entra ID to OCI IAM</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Identity/tutorials/azure_ad/jit_azure/azure_jit.htm#jit-get-started</td>
   </tr>
   <tr>
-    <td>Managing Identity across OCI IAM and Azure AD</td>
+    <td>Managing Identity across OCI IAM and Entra ID</td>
     <td>https://blogs.oracle.com/cloudsecurity/post/managing-identity-across-oci-iam-and-azure-ad</td>
   </tr>
   <tr>
@@ -108,36 +150,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/federating-oci-identity-domains-with-google-workspace</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h3>MFA</strong></h3></td>
-  </tr>
-   <tr>
-    <td>MFA for Local OCI Users</td>
-    <td>https://blogs.oracle.com/cloud-infrastructure/post/multi-factor-authentication-for-oracle-cloud-infrastructure-users</td>
-  </tr>
-   <tr>
-    <td colspan="2" align="center" id="iam"><h3>IAM Policies, Groups and Compartments</h3></td>
-  </tr>
-   <tr>
-    <td>OCI IAM Policies Best Practices</td>
-    <td>https://blogs.oracle.com/ateam/post/oci-iam-policies-best-practices</td>
-  </tr>
-  <tr>
-    <td>Common policies</td>
-    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Concepts/commonpolicies.htm</td>
-  </tr>
-  <tr>
-    <td>Best Practices for Compartments</td>
-    <td>https://blogs.oracle.com/cloud-infrastructure/post/best-practices-for-compartments</td>
-  </tr>
-  <tr>
-    <td>Oracle Cloud Infrastructure Compartments</td>
-    <td>https://www.ateam-oracle.com/post/oracle-cloud-infrastructure-compartments</td>
-  </tr>
-  <tr>
-    <td>Resource Organization</td>
-    <td>https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-2</td>
-  </tr>
-  <tr>
     <td colspan="2" align="center"><h3>IAM without Identity Domains</h3> (To be deprecated)</td>
   </tr>
    <tr>
@@ -153,7 +165,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Tasks/federatingSAML.htm</td>
   </tr>
   <tr>
-    <td>How to bring Azure AD users and groups into IDCS</td>
+    <td>How to bring Entra ID users and groups into IDCS</td>
     <td>https://www.ateam-oracle.com/post/how-to-bring-azure-ad-users-and-groups-into-idcs</td>
   </tr>
   <tr>
