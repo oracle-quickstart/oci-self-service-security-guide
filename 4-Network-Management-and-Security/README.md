@@ -47,6 +47,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://blogs.oracle.com/ateam/post/fastconnect-public-peering-architectures-and-use-cases</td>
   </tr>
   <tr>
+    <td>How To Validate Proper FC Redundancy for OCI Network Maintenance</td>
+    <td>https://www.youtube.com/watch?v=PwKS4NpuUKg</td>
+  </tr>
+  <tr>
     <td>DRG Redundancy Remedies</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Network/Troubleshoot/drgredundancy.htm</td>
   </tr>
