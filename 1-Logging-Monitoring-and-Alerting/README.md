@@ -70,6 +70,18 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/day-one-and-beyond-webinar-logging-analytics-for-enhancing-performance-and-security</td>
   </tr>
   <tr>
+    <td>Harnessing the Power of Linux Logs in OCI Logging Analytics</td>
+    <td>https://www.ateam-oracle.com/post/harnessing-the-power-of-linux-logs-in-oci-logging-analytics-om</td>
+  </tr>
+  <tr>
+    <td>Maximizing Visibility: Collecting and Analyzing Logs from Oracle Databases using OCI Logging Analytics</td>
+    <td>https://www.ateam-oracle.com/post/maximize-visibillity-collecting-and-analyzing-logs-for-multiple-oracle-databases-using-oci-logging-analytics</td>
+  </tr>
+  <tr>
+    <td>Unlocking Insights : Apache Server Access Logs in OCI Logging Analytics</td>
+    <td>https://www.ateam-oracle.com/post/apache-server-access-logs-in-oci-logging-analytics</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><strong>Splunk SIEM Integration</strong></td>
   </tr>
   <tr>
