@@ -42,8 +42,12 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/security-fundamentals-dashboards-using-logging-analytics</td>
   </tr>
   <tr>
-    <td>Security Fundamentals Dashboard (SFD) Terraform to deploy in OCI Marketplace</td>
+    <td>Security Fundamentals Dashboard (SFD) Terraform to deploy from OCI Marketplace</td>
     <td>https://cloudmarketplace.oracle.com/marketplace/en_US/listing/174862207</td>
+  </tr>
+  <tr>
+    <td>Security Fundamentals Dashboard (SFD) Github repo</td>
+    <td>https://github.com/oracle-quickstart/oci-o11y-solutions/blob/main/knowledge-content/MAP/security-fundamentals-dashboards/README.md</td>
   </tr>
   <tr>
     <td>OCI Security Fundamentals Dashboards - Manage Logging Analytics Storage</td>
