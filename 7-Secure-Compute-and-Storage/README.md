@@ -23,6 +23,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Automating OCI Vault Secrets Backup: A Step-by-Step Guide</td>
     <td>https://www.ateam-oracle.com/post/automating-oci-vault-secrets-backup-a-stepbystep-guide</td>
   </tr>
+  <tr>
+    <td>Migrating Secrets from AWS Secrets Manager to OCI Vault</td>
+    <td>https://docs.oracle.com/en/learn/aws-oci-secrets/#introduction</td>
+  </tr>
     <tr>
     <td colspan="2" align="center"><strong>Secure Compute</strong></td>
   </tr>
