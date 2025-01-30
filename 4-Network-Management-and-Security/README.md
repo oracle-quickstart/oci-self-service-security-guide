@@ -67,6 +67,14 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/connecting-two-oci-regions-using-equinix-network-edge-virtual-device-main-page</td>
   </tr>
   <tr>
+    <td>OCI-GCP interconnect using Equinix's FCR</td>
+    <td>https://blogs.oracle.com/ateam/post/ocigcp-interconnect-using-equinixs-fcr</td>
+  </tr>
+  <tr>
+    <td>OCI-AWS interconnect using Equinix FCR</td>
+    <td>https://blogs.oracle.com/ateam/post/ociaws-interconnect-using-equinix-fcr</td>
+  </tr>
+  <tr>
     <td>Setting Up Site-to-Site VPN Connectivity from OCI to Azure Virtual WAN</td>
     <td>https://blogs.oracle.com/ateam/post/setting-up-sitetosite-vpn-connectivity-from-oci-to-azure-virtual-wan</td>
   </tr>
