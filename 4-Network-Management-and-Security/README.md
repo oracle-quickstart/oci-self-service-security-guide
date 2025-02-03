@@ -104,10 +104,10 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>Optimizing OCI Network Security using OCI Flow Logs</td>
     <td>
-      [Optimizing OCI Network Security using OCI Flow Logs - Part 1](https://www.ateam-oracle.com/post/optimizing-oci-network-security-lists-using-oci-flow-logs)<br>
-      [Optimizing OCI Network Security using OCI Flow Logs - Part 2](https://www.ateam-oracle.com/post/enable-oci-flow-logs-for-all-subnets-and-stream-logs-to-object-storage-via-service-connector-hub)<br>
-      [Optimizing OCI Network Security using OCI Flow Logs - Part 3](https://www.ateam-oracle.com/post/optimizing-oci-network-security-using-oci-flow-logs-part-3)<br>
-      [Optimizing OCI Network Security using OCI Flow Logs - Part 4](https://www.ateam-oracle.com/post/optimizing-oci-network-security-using-oci-flow-logs-part-4)<br>
+     Part 1 - https://www.ateam-oracle.com/post/optimizing-oci-network-security-lists-using-oci-flow-logs<br>
+     Part 2 - https://www.ateam-oracle.com/post/enable-oci-flow-logs-for-all-subnets-and-stream-logs-to-object-storage-via-service-connector-hub<br>
+     Part 3 - https://www.ateam-oracle.com/post/optimizing-oci-network-security-using-oci-flow-logs-part-3<br>
+     Part 4 - https://www.ateam-oracle.com/post/optimizing-oci-network-security-using-oci-flow-logs-part-4<br>
     </td>
   </tr>
 
