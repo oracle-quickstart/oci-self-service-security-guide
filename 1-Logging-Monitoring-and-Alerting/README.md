@@ -105,6 +105,14 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://github.com/oracle-quickstart/oci-arch-logging-splunk</td>
   </tr>
   <tr>
+    <td colspan="2" align="center"><strong>Stellar Cyber Integration</strong></td>
+  </tr>
+  <tr>
+    <td>Stellar Cyber OCI Integration Steps</td>
+    <td>https://github.com/oracle-quickstart/oci-self-service-security-guide/tree/main/1-Logging-Monitoring-and-Alerting</td>
+  </tr>
+
+  <tr>
     <td colspan="2" align="center"><strong>Azure Sentinel Integration</strong></td>
   </tr>
   <tr>
