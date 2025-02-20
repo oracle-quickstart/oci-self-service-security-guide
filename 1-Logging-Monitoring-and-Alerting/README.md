@@ -109,7 +109,7 @@ The following table summarizes the curated list of resource URLs for this domain
   </tr>
   <tr>
     <td>Stellar Cyber OCI Integration Steps</td>
-    <td>https://github.com/oracle-quickstart/oci-self-service-security-guide/tree/main/1-Logging-Monitoring-and-Alerting</td>
+    <td>https://docs.stellarcyber.ai/5.1.1/Configure/Connectors/Oracle-Cloud-Infra-Connectors.htm</td>
   </tr>
 
   <tr>
