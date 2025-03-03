@@ -127,8 +127,16 @@ The following table summarizes the curated list of resource URLs for this domain
     <td> https://docs.oracle.com/en-us/iaas/Content/Identity/tutorials/okta/lifecycle_okta/okta-lifecycle.htm#lifecycle-get-started</td>
   </tr>
   <tr>
+    <td>Automate OCI IAM Domain Group Membership with Okta Push Groups</td>
+    <td>https://docs.oracle.com/en/learn/oci-iam-okta-pushgrps/#introduction</td>
+  </tr>
+  <tr>
     <td>JIT Provisioning from Okta to OCI IAM</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Identity/tutorials/okta/jit_okta/okta_jit.htm#jit-get-started</td>
+  </tr>
+  <tr>
+    <td>Disable the OCI Local Password Capability of Users Provisioned from Okta using Okta Attribute Mapping</td>
+    <td>https://docs.oracle.com/en/learn/okta-ocilp-disable</td>
   </tr>
   <tr>
     <td>Integrate Okta with Identity Domains for Single Sign-On and user provisioning</td>
