@@ -44,8 +44,6 @@ The following table summarizes the curated list of resource URLs for the CIS OCI
     <td>Automate CIS Compliance Checking with OCI Functions and OCI Resource Scheduler</td>
     <td>https://www.ateam-oracle.com/post/automate-cis-compliance-checking</td>
   </tr>
-
-  </tr>
     <tr>
     <td>Secure Workloads</td>
     <td>https://github.com/oracle-quickstart/terraform-oci-secure-workloads</td>
