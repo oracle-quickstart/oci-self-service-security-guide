@@ -35,6 +35,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.public.oneportal.content.oci.oraclecloud.com/en-us/iaas/Content/Tagging/Concepts/understandingautomaticdefaulttags.htm</td>
   </tr>
   <tr>
+    <td>Bulk Default Tag Updater Script</td>
+    <td>https://github.com/flynnkc/tag-updater/tree/main</td>
+  </tr>
+  <tr>
     <td>Best Practices for Using Tags to Manage Costs, Operations, and Governance</td>
     <td>https://blogs.oracle.com/cloud-infrastructure/post/best-practices-for-using-tags-to-manage-costs-operations-and-governance</td>
   </tr>

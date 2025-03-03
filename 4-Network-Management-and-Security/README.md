@@ -47,6 +47,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://blogs.oracle.com/ateam/post/fastconnect-public-peering-architectures-and-use-cases</td>
   </tr>
   <tr>
+    <td>How To Validate Proper FC Redundancy for OCI Network Maintenance</td>
+    <td>https://www.youtube.com/watch?v=PwKS4NpuUKg</td>
+  </tr>
+  <tr>
     <td>DRG Redundancy Remedies</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Network/Troubleshoot/drgredundancy.htm</td>
   </tr>
@@ -61,6 +65,14 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>Series: Connecting two OCI Regions using Equinix Network EDGE Virtual Device</td>
     <td>https://www.ateam-oracle.com/post/connecting-two-oci-regions-using-equinix-network-edge-virtual-device-main-page</td>
+  </tr>
+  <tr>
+    <td>OCI-GCP interconnect using Equinix's FCR</td>
+    <td>https://blogs.oracle.com/ateam/post/ocigcp-interconnect-using-equinixs-fcr</td>
+  </tr>
+  <tr>
+    <td>OCI-AWS interconnect using Equinix FCR</td>
+    <td>https://blogs.oracle.com/ateam/post/ociaws-interconnect-using-equinix-fcr</td>
   </tr>
   <tr>
     <td>Setting Up Site-to-Site VPN Connectivity from OCI to Azure Virtual WAN</td>
@@ -88,6 +100,10 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>OCI Flow Logs with Capture Filters</td>
     <td>https://www.youtube.com/watch?v=cA9EA5y6k3c&t=4s</td>
+  </tr>
+  <tr>
+    <td>Optimizing OCI Network Security using OCI Flow Logs</td>
+    <td>https://www.ateam-oracle.com/post/optimizing-oci-network-security-lists-using-oci-flow-logs</td>
   </tr>
 
 </table>

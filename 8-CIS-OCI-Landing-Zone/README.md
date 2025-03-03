@@ -36,10 +36,13 @@ The following table summarizes the curated list of resource URLs for the CIS OCI
     - A Python script that performs compliance checks for most of the CIS OCI Foundations Benchmark recommendations. The script is completely independent of the Terraform code and can be used against any existing tenancy.
     </td>
   </tr>
-    <tr>
-    <td>CIS Compliance Checker script</td>
+  <tr>
+    <td>CIS Compliance Checker script Github Repo</td>
     <td>https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart/blob/main/compliance-script.md</td>
   </tr>
+  <tr>
+    <td>Automate CIS Compliance Checking with OCI Functions and OCI Resource Scheduler</td>
+    <td>https://www.ateam-oracle.com/post/automate-cis-compliance-checking</td>
   </tr>
     <tr>
     <td>Secure Workloads</td>

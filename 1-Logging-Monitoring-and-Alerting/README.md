@@ -35,6 +35,57 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/solutions/oci-aggregate-logs-siem/index.html</td>
   </tr>
   <tr>
+    <td colspan="2" align="center"><strong>OCI Logging Analytics</strong></td>
+  </tr>
+  <tr>
+    <td>Oracle Cloud Infrastructure Security Fundamentals Dashboards using OCI Logging Analytics</td>
+    <td>https://www.ateam-oracle.com/post/security-fundamentals-dashboards-using-logging-analytics</td>
+  </tr>
+  <tr>
+    <td>Security Fundamentals Dashboard (SFD) Terraform to deploy from OCI Marketplace</td>
+    <td>https://cloudmarketplace.oracle.com/marketplace/en_US/listing/174862207</td>
+  </tr>
+  <tr>
+    <td>Security Fundamentals Dashboard (SFD) Github repo</td>
+    <td>https://github.com/oracle-quickstart/oci-o11y-solutions/blob/main/knowledge-content/MAP/security-fundamentals-dashboards/README.md</td>
+  </tr>
+  <tr>
+    <td>OCI Security Fundamentals Dashboards - Manage Logging Analytics Storage</td>
+    <td>https://www.ateam-oracle.com/post/oci-security-fundamentals-dashboards-manage-logging-analytics-storage</td>
+  </tr>
+  <tr>
+    <td>OCI Logging Analytics Best Practices Series - Management Agent Tuning</td>
+    <td>https://www.ateam-oracle.com/post/oci-logging-analytics-best-practices-management-agent-tuning</td>
+  </tr>
+  <tr>
+    <td>OCI Logging Analytics Best Practices Series - Cost Optimization</td>
+    <td>https://www.ateam-oracle.com/post/oci-logging-analytics-best-practices-series-cost-optimization</td>
+  </tr>
+  <tr>
+    <td>OCI Logging Analytics Best Practices Series - Custom Log Sources and Parsers Tips</td>
+    <td>https://www.ateam-oracle.com/post/oci-logging-analytics-best-practices-log-parsing-and-enrichment</td>
+  </tr>
+  <tr>
+    <td>How-to videos about OCI Logging Analytics</td>
+    <td>https://www.youtube.com/playlist?list=PLiuPvpy8QsiVYPDnELq446iS8pmCV0AvD</td>
+  </tr>
+  <tr>
+    <td>Day One and Beyond: Logging Analytics for Enhancing Performance and Security</td>
+    <td>https://www.ateam-oracle.com/post/day-one-and-beyond-webinar-logging-analytics-for-enhancing-performance-and-security</td>
+  </tr>
+  <tr>
+    <td>Harnessing the Power of Linux Logs in OCI Logging Analytics</td>
+    <td>https://www.ateam-oracle.com/post/harnessing-the-power-of-linux-logs-in-oci-logging-analytics-om</td>
+  </tr>
+  <tr>
+    <td>Maximizing Visibility: Collecting and Analyzing Logs from Oracle Databases using OCI Logging Analytics</td>
+    <td>https://www.ateam-oracle.com/post/maximize-visibillity-collecting-and-analyzing-logs-for-multiple-oracle-databases-using-oci-logging-analytics</td>
+  </tr>
+  <tr>
+    <td>Unlocking Insights : Apache Server Access Logs in OCI Logging Analytics</td>
+    <td>https://www.ateam-oracle.com/post/apache-server-access-logs-in-oci-logging-analytics</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><strong>Splunk SIEM Integration</strong></td>
   </tr>
   <tr>
@@ -53,6 +104,14 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Implement a SIEM system in Splunk using logs streamed from Oracle Cloud(Example Terraform code)</td>
     <td>https://github.com/oracle-quickstart/oci-arch-logging-splunk</td>
   </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Stellar Cyber Integration</strong></td>
+  </tr>
+  <tr>
+    <td>Stellar Cyber OCI Integration Steps</td>
+    <td>https://docs.stellarcyber.ai/5.1.1/Configure/Connectors/Oracle-Cloud-Infra-Connectors.htm</td>
+  </tr>
+
   <tr>
     <td colspan="2" align="center"><strong>Azure Sentinel Integration</strong></td>
   </tr>
@@ -131,38 +190,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Sumologic Integration</td>
     <td>https://docs.oracle.com/en/learn/blog_sumologic/index.html</td>
   </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>OCI Logging Analytics</strong></td>
-  </tr>
-  <tr>
-    <td>Oracle Cloud Infrastructure Security Fundamentals Dashboards using OCI Logging Analytics</td>
-    <td>https://www.ateam-oracle.com/post/security-fundamentals-dashboards-using-logging-analytics</td>
-  </tr>
-  <tr>
-    <td>OCI Security Fundamentals Dashboards - Manage Logging Analytics Storage</td>
-    <td>https://www.ateam-oracle.com/post/oci-security-fundamentals-dashboards-manage-logging-analytics-storage</td>
-  </tr>
-  <tr>
-    <td>OCI Logging Analytics Best Practices Series - Management Agent Tuning</td>
-    <td>https://www.ateam-oracle.com/post/oci-logging-analytics-best-practices-management-agent-tuning</td>
-  </tr>
-  <tr>
-    <td>OCI Logging Analytics Best Practices Series - Cost Optimization</td>
-    <td>https://www.ateam-oracle.com/post/oci-logging-analytics-best-practices-series-cost-optimization</td>
-  </tr>
-  <tr>
-    <td>OCI Logging Analytics Best Practices Series - Custom Log Sources and Parsers Tips</td>
-    <td>https://www.ateam-oracle.com/post/oci-logging-analytics-best-practices-log-parsing-and-enrichment</td>
-  </tr>
-  <tr>
-    <td>How-to videos about OCI Logging Analytics</td>
-    <td>https://www.youtube.com/playlist?list=PLiuPvpy8QsiVYPDnELq446iS8pmCV0AvD</td>
-  </tr>
-  <tr>
-    <td>Day One and Beyond: Logging Analytics for Enhancing Performance and Security</td>
-    <td>https://www.ateam-oracle.com/post/day-one-and-beyond-webinar-logging-analytics-for-enhancing-performance-and-security</td>
-  </tr>
-
   <tr>
     <td colspan="2" align="center"><h3>Notifications,Monitoring & Alerting</h3></td>
   </tr>
