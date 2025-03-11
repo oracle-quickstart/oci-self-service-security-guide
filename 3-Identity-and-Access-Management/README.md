@@ -27,6 +27,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Identifying Users in OCI IAM Domain with Local Passwords and No MFA Enabled</td>
     <td>https://www.ateam-oracle.com/post/identifying-users-in-oci-iam-domain-with-local-passwords-and-no-mfa-enabled</td>
   </tr>
+  <tr>
+    <td>OCI IAM Domain Network Perimeter Use Case: Restricting access to OCI PaaS services such as OIC and OAC</td>
+    <td>https://www.ateam-oracle.com/post/oci-iam-domain-network-perimeter-use-case-restricting-access-to-oci-paas-services-such-as-oic-and-oac</td>
+  </tr>
      <tr>
     <td colspan="2" align="center" id="iam"><h3>IAM Policies, Groups and Compartments</h3></td>
   </tr>

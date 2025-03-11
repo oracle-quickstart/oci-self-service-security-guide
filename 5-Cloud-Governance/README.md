@@ -24,6 +24,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/learn/send-cost-usage-report-via-email/</td>
   </tr>
   <tr>
+    <td>Automating the Export of OCI FinOps Open Cost and Usage Specification (FOCUS) Reports to Object Storage</td>
+    <td>https://www.ateam-oracle.com/post/automating-the-export-of-oci-finops-open-cost-and-usage-specification-focus-reports-to-object-storage</td>
+  </tr>
+  <tr>
     <td>Financial Metrics</td>
     <td>https://docs.public.oneportal.content.oci.oraclecloud.com/en-us/iaas/Content/cloud-adoption-framework/financial-metrics.htm</td>
   </tr>

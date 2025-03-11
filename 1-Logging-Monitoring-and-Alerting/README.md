@@ -42,6 +42,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/security-fundamentals-dashboards-using-logging-analytics</td>
   </tr>
   <tr>
+    <td>Elevating Network Security: Introducing New SFD Network Security Dashboard</td>
+    <td>https://www.ateam-oracle.com/post/elevating-network-security-introducing-new-sfd-network-security-dashboard</td>
+  </tr>
+  <tr>
     <td>Security Fundamentals Dashboard (SFD) Terraform to deploy from OCI Marketplace</td>
     <td>https://cloudmarketplace.oracle.com/marketplace/en_US/listing/174862207</td>
   </tr>

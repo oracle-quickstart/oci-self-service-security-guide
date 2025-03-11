@@ -34,5 +34,9 @@ The following table summarizes the curated list of resource URLs for this domain
    <td>Using CIS Hardened Images for your VMs</td>
    <td>https://blogs.oracle.com/cloud-infrastructure/post/hardened-images-from-the-center-for-internet-security-on-oracle-cloud-marketplace</td>
   </tr>
+  <tr>
+   <td>CISO Perspectives: Confidential Compute: Protecting Data In-Process</td>
+   <td>https://www.ateam-oracle.com/post/ciso-perspectives-confidential-compute-protecting-data-inprocess</td>
+  </tr>
 </table>
 
