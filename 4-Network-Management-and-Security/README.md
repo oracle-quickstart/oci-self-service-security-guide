@@ -25,8 +25,12 @@ The following table summarizes the curated list of resource URLs for this domain
   </tr>
   <tr>
     <td>OCI Network Firewall - Hub and Spoke traffic inspection</td>
-    <td> https://www.ateam-oracle.com/post/oci-network-firewall---hub-and-spoke-traffic-inspection</td>
-  </tr> 
+    <td>https://www.ateam-oracle.com/post/oci-network-firewall---hub-and-spoke-traffic-inspection</td>
+  </tr>
+  <tr>
+    <td>Deploying Hub-and-Spoke Architecture with FortiGate Firewall for North-South Traffic on Oracle Cloud</td>
+    <td>https://www.ateam-oracle.com/post/deploying-hubandspoke-architecture-with-fortigate-firewall-for-northsouth-traffic-on-oracle-cloud</td>
+  </tr>
   <tr>
     <td>Enhancing IP Address Management with OCI New Tool – IP Address Insight</td>
     <td>https://www.ateam-oracle.com/post/oci-ip-address-insight</td>
@@ -34,13 +38,21 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>OCI IPv6 Unique Local IPv6 Unicast Addresses usage and considerations</td>
     <td>https://www.ateam-oracle.com/post/oci-ipv6-unique-local-ipv6-unicast-addresses-usage-and-considerations</td>
-  </tr> 
+  </tr>
+  <tr>
+    <td>Video | VCN with Multiple CIDR Ranges</td>
+    <td>https://youtu.be/HV90CTuMXAM</td>
+  </tr>
   <tr>
     <td colspan="2" align="center"><h2>Network Connectivity</h2></td>
 </tr>
   <tr>
     <td>OCI Network Connectivity</td>
     <td>https://www.ateam-oracle.com/post/oci-networking-best-practices---part-3---oci-network-connectivity</td>
+  </tr>
+  <tr>
+    <td>Oracle Database at Azure DNS options</td>
+    <td>https://www.ateam-oracle.com/post/oracle-database-at-azure-dns-options</td>
   </tr>
   <tr>
     <td>FastConnect Public Peering: Architectures and Use Cases</td>
@@ -96,6 +108,14 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>VCN Flow logs concepts</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/vcn-flow-logs.htm</td>
+  </tr>
+  <tr>
+    <td>Blog | VCN Flow Logs - Enhancements</td>
+    <td>https://www.ateam-oracle.com/post/vcn-flow-log-enhancements</td>
+  </tr>
+  <tr>
+    <td>Video | VCN Flow Logs - Enhancements</td>
+    <td>https://www.youtube.com/watch?v=Y15GE9zjxoY</td>
   </tr>
   <tr>
     <td>OCI Flow Logs with Capture Filters</td>
