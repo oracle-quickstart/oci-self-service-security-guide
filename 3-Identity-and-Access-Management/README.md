@@ -55,6 +55,11 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/have-less-be-more-scaling-oci-iam-policies</td>
   </tr>
   <tr>
+    <tr>
+    <td>Deep Dive into Tag based Oracle Cloud Infrastructure Identity and Access Management Policies</td>
+    <td>https://docs.oracle.com/en/learn/oci-policy-deep-dive/#introduction</td>
+  </tr>
+  <tr>
     <td>Best Practices for Compartments</td>
     <td>https://blogs.oracle.com/cloud-infrastructure/post/best-practices-for-compartments</td>
   </tr>
@@ -152,6 +157,13 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>Federating OCI Identity Domains with Google Workspace</td>
     <td>https://www.ateam-oracle.com/post/federating-oci-identity-domains-with-google-workspace</td>
+  </tr>
+  <tr>
+        <td colspan="2" align="center"><h3>OCI Identity Domains with Google PingOne</h3></td>
+  </tr>
+  <tr>
+    <td>Federating OCI Identity Domains with Google PingOne</td>
+    <td>https://docs.oracle.com/en/learn/oci-iam-pingone/index.html#introduction</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><h3>IAM without Identity Domains</h3> (To be deprecated)</td>
