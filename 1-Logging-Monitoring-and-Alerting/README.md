@@ -35,11 +35,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/solutions/oci-aggregate-logs-siem/index.html</td>
   </tr>
   <tr>
-    <td>Ingest Oracle Cloud Infrastructure Logs into Third-Party SIEM Platforms using Log Shippers</td>
-    <td>https://docs.oracle.com/en/learn/ocilogs-log-shipper/#introduction</td>
-  </tr>
-
-  <tr>
     <td colspan="2" align="center"><strong>OCI Logging Analytics</strong></td>
   </tr>
   <tr>
@@ -187,6 +182,10 @@ The following table summarizes the curated list of resource URLs for this domain
   </tr>
   <tr>
     <td colspan="2" align="center"><h4>Log Shipper Integrations</h4></td>
+  </tr>
+  <tr>
+    <td>Ingest Oracle Cloud Infrastructure Logs into Third-Party SIEM Platforms using Log Shippers</td>
+    <td>https://docs.oracle.com/en/learn/ocilogs-log-shipper/#introduction</td>
   </tr>
   <tr>
     <td>Integrate OCI Logging with Cribl using OCI Streaming</td>
