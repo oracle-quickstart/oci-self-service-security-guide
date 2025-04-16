@@ -48,6 +48,14 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://youtu.be/HV90CTuMXAM</td>
   </tr>
   <tr>
+    <td>OCI Private DNS - Common Scenarios</td>
+    <td>https://www.ateam-oracle.com/post/oci-private-dns---common-scenarios</td>
+  </tr>
+  <tr>
+    <td>OCI Private DNS - Best Practices</td>
+    <td>https://www.ateam-oracle.com/post/oci-private-dns-best-practices</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><h2>Network Connectivity</h2></td>
 </tr>
   <tr>
