@@ -35,11 +35,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/solutions/oci-aggregate-logs-siem/index.html</td>
   </tr>
   <tr>
-    <td>Ingest Oracle Cloud Infrastructure Logs into Third-Party SIEM Platforms using Log Shippers</td>
-    <td>https://docs.oracle.com/en/learn/ocilogs-log-shipper/#introduction</td>
-  </tr>
-
-  <tr>
     <td colspan="2" align="center"><strong>OCI Logging Analytics</strong></td>
   </tr>
   <tr>
@@ -148,13 +143,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/learn/move-ocilogs-to-ibmqradar/</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>Cribl Integration</strong></td>
-  </tr>
-  <tr>
-    <td>Integrate OCI Logging with Cribl using OCI Streaming</td>
-    <td>https://blogs.oracle.com/cloud-infrastructure/post/integrate-oci-logging-cribl-oci-streaming</td>
-  </tr>
-  <tr>
     <td colspan="2" align="center"><strong>Rapid7 Integration</strong></td>
   </tr>
   <tr>
@@ -164,13 +152,6 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>Forward Logs from Oracle Cloud Infrastructure to Rapid7 InsightOps</td>
     <td>https://docs.oracle.com/en/learn/forward-log-from-oci-to-insightops/index.html</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Logstash Integration</strong></td>
-  </tr>
-  <tr>
-    <td>Logstash Integration</td>
-    <td>https://docs.oracle.com/en/learn/oci-logs-streaming-kafka-logstash/index.html</td>
   </tr>
    <tr>
     <td colspan="2" align="center"><strong>Datadog Integration</strong></td>
@@ -198,6 +179,21 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>Sumologic Integration</td>
     <td>https://docs.oracle.com/en/learn/blog_sumologic/index.html</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Log Shipper Integrations</h4></td>
+  </tr>
+  <tr>
+    <td>Ingest Oracle Cloud Infrastructure Logs into Third-Party SIEM Platforms using Log Shippers</td>
+    <td>https://docs.oracle.com/en/learn/ocilogs-log-shipper/#introduction</td>
+  </tr>
+  <tr>
+    <td>Integrate OCI Logging with Cribl using OCI Streaming</td>
+    <td>https://blogs.oracle.com/cloud-infrastructure/post/integrate-oci-logging-cribl-oci-streaming</td>
+  </tr>
+  <tr>
+    <td>Logstash Integration</td>
+    <td>https://docs.oracle.com/en/learn/oci-logs-streaming-kafka-logstash/index.html</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><h3>Notifications,Monitoring & Alerting</h3></td>

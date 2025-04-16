@@ -55,6 +55,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/have-less-be-more-scaling-oci-iam-policies</td>
   </tr>
   <tr>
+    <td>Scaling OCI IAM policies for Groups</td>
+    <td>https://www.ateam-oracle.com/post/scaling-oci-iam-policies-for-groups</td>
+  </tr>
+  <tr>
     <tr>
     <td>Deep Dive into Tag based Oracle Cloud Infrastructure Identity and Access Management Policies</td>
     <td>https://docs.oracle.com/en/learn/oci-policy-deep-dive/#introduction</td>

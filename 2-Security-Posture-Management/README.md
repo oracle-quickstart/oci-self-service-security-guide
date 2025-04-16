@@ -36,8 +36,8 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://blogs.oracle.com/cloudsecurity/post/quick-tip-4---setting-up-notifications-for-oracle-cloud-guard-in-3-easy-steps</td>
   </tr>
   <tr>
-    <td>Aggregate Oracle Cloud Infrastructure Service Logs Using Third-Party SIEMs</td>
-    <td>https://docs.oracle.com/en/solutions/oci-aggregate-logs-siem/index.html</td>
+    <td>Retrieve Oracle Cloud Guard Problem Reports using a Python Script</td>
+    <td>https://docs.oracle.com/en/learn/retrieve-ocg-prblmrpt</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Prisma Cloud</strong></td>

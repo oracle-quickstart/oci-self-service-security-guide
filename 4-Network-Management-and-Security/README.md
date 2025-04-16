@@ -36,12 +36,24 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/oci-ip-address-insight</td>
   </tr> 
   <tr>
+    <td>Automating Bulk Reserved Public IP Allocation in OCI with Terraform</td>
+    <td>https://www.ateam-oracle.com/post/automating-bulk-reserved-public-ip-allocation-in-oci-with-terraform</td>
+  </tr> 
+  <tr>
     <td>OCI IPv6 Unique Local IPv6 Unicast Addresses usage and considerations</td>
     <td>https://www.ateam-oracle.com/post/oci-ipv6-unique-local-ipv6-unicast-addresses-usage-and-considerations</td>
   </tr>
   <tr>
     <td>Video | VCN with Multiple CIDR Ranges</td>
     <td>https://youtu.be/HV90CTuMXAM</td>
+  </tr>
+  <tr>
+    <td>OCI Private DNS - Common Scenarios</td>
+    <td>https://www.ateam-oracle.com/post/oci-private-dns---common-scenarios</td>
+  </tr>
+  <tr>
+    <td>OCI Private DNS - Best Practices</td>
+    <td>https://www.ateam-oracle.com/post/oci-private-dns-best-practices</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><h2>Network Connectivity</h2></td>
