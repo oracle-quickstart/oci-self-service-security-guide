@@ -43,6 +43,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://github.com/flynnkc/tag-updater/tree/main</td>
   </tr>
   <tr>
+    <td>Using Resource Scheduler to Make Tag Defaults Self-Updating</td>
+    <td>https://www.ateam-oracle.com/post/using-cron-to-make-a-tag-autoupdating</td>
+  </tr>
+  <tr>
     <td>Best Practices for Using Tags to Manage Costs, Operations, and Governance</td>
     <td>https://blogs.oracle.com/cloud-infrastructure/post/best-practices-for-using-tags-to-manage-costs-operations-and-governance</td>
   </tr>
