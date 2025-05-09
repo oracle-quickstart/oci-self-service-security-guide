@@ -93,6 +93,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><strong>Splunk SIEM Integration</strong></td>
   </tr>
   <tr>
+    <td>Stream OCI logs using OCI Streaming and Kafka Connect to Splunk</td>
+    <td>https://blogs.oracle.com/cloud-infrastructure/post/stream-oci-logs-kafka-connect-splunk</td>
+  </tr>
+  <tr>
     <td>Splunk Addon for OCI - Setup documentation on Git Hub</td>
     <td>https://github.com/splunk/Splunk-Addon-for-OCI/tree/main/README</td>
   </tr>
@@ -186,6 +190,10 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>Ingest Oracle Cloud Infrastructure Logs into Third-Party SIEM Platforms using Log Shippers</td>
     <td>https://docs.oracle.com/en/learn/ocilogs-log-shipper/#introduction</td>
+  </tr>
+  <tr>
+    <td>Send Oracle Cloud Infrastructure Logs to New Relic using Vector</td>
+    <td>https://docs.oracle.com/en/learn/oci-logs-to-nrv/</td>
   </tr>
   <tr>
     <td>Integrate OCI Logging with Cribl using OCI Streaming</td>

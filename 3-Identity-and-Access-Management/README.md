@@ -12,6 +12,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><h3>IAM with Identity Domains</h3></td>
   </tr>
   <tr>
+    <td>Day One and Beyond: Identity and Access Management</td>
+    <td>https://www.youtube.com/watch?v=tWl2RhUwoBI</td>
+  </tr>
+  <tr>
     <td>How Policies work with IAM Domains</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Identity/policieshow/how-policies-work.htm</td>
   </tr>
@@ -57,6 +61,10 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>Scaling OCI IAM policies for Groups</td>
     <td>https://www.ateam-oracle.com/post/scaling-oci-iam-policies-for-groups</td>
+  </tr>
+  <tr>
+    <td>Essential IAM Policies for Using OCI Object Storage with Customer-Managed Keys in OCI Vault</td>
+    <td>https://www.ateam-oracle.com/post/what-policies-are-required-to-create-a-bucket-inside-a-oci-security-zone</td>
   </tr>
   <tr>
     <tr>

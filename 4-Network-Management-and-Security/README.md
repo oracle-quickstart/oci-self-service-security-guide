@@ -32,6 +32,11 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/deploying-hubandspoke-architecture-with-fortigate-firewall-for-northsouth-traffic-on-oracle-cloud</td>
   </tr>
   <tr>
+    <td>Video: Deploying Hub-and-Spoke Architecture with FortiGate Firewall for North-South Traffic Inspection</td>
+    <td>https://www.youtube.com/watch?v=FZR0ILkoJJo</td>
+  </tr>
+
+  <tr>
     <td>Enhancing IP Address Management with OCI New Tool – IP Address Insight</td>
     <td>https://www.ateam-oracle.com/post/oci-ip-address-insight</td>
   </tr> 
