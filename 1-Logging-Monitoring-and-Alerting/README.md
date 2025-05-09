@@ -93,6 +93,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><strong>Splunk SIEM Integration</strong></td>
   </tr>
   <tr>
+    <td>Stream OCI logs using OCI Streaming and Kafka Connect to Splunk</td>
+    <td>https://blogs.oracle.com/cloud-infrastructure/post/stream-oci-logs-kafka-connect-splunk</td>
+  </tr>
+  <tr>
     <td>Splunk Addon for OCI - Setup documentation on Git Hub</td>
     <td>https://github.com/splunk/Splunk-Addon-for-OCI/tree/main/README</td>
   </tr>
