@@ -59,6 +59,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/scaling-oci-iam-policies-for-groups</td>
   </tr>
   <tr>
+    <td>Essential IAM Policies for Using OCI Object Storage with Customer-Managed Keys in OCI Vault</td>
+    <td>https://www.ateam-oracle.com/post/what-policies-are-required-to-create-a-bucket-inside-a-oci-security-zone</td>
+  </tr>
+  <tr>
     <tr>
     <td>Deep Dive into Tag based Oracle Cloud Infrastructure Identity and Access Management Policies</td>
     <td>https://docs.oracle.com/en/learn/oci-policy-deep-dive/#introduction</td>
