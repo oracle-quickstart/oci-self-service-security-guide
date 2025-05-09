@@ -38,5 +38,14 @@ The following table summarizes the curated list of resource URLs for this domain
    <td>CISO Perspectives: Confidential Compute: Protecting Data In-Process</td>
    <td>https://www.ateam-oracle.com/post/ciso-perspectives-confidential-compute-protecting-data-inprocess</td>
   </tr>
+    <tr>
+    <td colspan="2" align="center"><strong>Secure Storage</strong></td>
+  </tr>
+    <tr>
+   <td>Secure Access to the Object Storage using Private Endpoints</td>
+   <td>https://www.ateam-oracle.com/post/secure-access-os-private-endpoints</td>
+  </tr>
+
+
 </table>
 
