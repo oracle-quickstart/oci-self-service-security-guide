@@ -192,6 +192,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/learn/ocilogs-log-shipper/#introduction</td>
   </tr>
   <tr>
+    <td>Send Oracle Cloud Infrastructure Logs to New Relic using Vector</td>
+    <td>https://docs.oracle.com/en/learn/oci-logs-to-nrv/</td>
+  </tr>
+  <tr>
     <td>Integrate OCI Logging with Cribl using OCI Streaming</td>
     <td>https://blogs.oracle.com/cloud-infrastructure/post/integrate-oci-logging-cribl-oci-streaming</td>
   </tr>
