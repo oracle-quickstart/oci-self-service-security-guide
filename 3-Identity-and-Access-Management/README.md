@@ -12,6 +12,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><h3>IAM with Identity Domains</h3></td>
   </tr>
   <tr>
+    <td>Day One and Beyond: Identity and Access Management</td>
+    <td>https://www.youtube.com/watch?v=tWl2RhUwoBI</td>
+  </tr>
+  <tr>
     <td>How Policies work with IAM Domains</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Identity/policieshow/how-policies-work.htm</td>
   </tr>
