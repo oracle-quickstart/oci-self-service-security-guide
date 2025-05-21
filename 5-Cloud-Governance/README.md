@@ -70,20 +70,8 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><strong>Cloud Governance Model</strong></td>
   </tr>
   <tr>
-    <td>Overview</td>
-    <td>https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-1</td>
-  </tr>
-  <tr>
-    <td>Resource Organization</td>
-    <td> https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-2</td>
-  </tr>
-  <tr>
-    <td>Resource Governance</td>
-    <td> https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-3</td>
-  </tr>
-  <tr>
-    <td>Observability and Security Monitoring</td>
-    <td> https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-4</td>
+    <td>Establish a foundational Oracle Cloud Infrastructure Governance Model</td>
+    <td>https://docs.oracle.com/en/solutions/foundational-oci-governance-model/index.html</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Tenancy Cleanup</strong></td>
