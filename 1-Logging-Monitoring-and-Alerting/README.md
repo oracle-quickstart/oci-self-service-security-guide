@@ -119,6 +119,13 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Stellar Cyber OCI Integration Steps</td>
     <td>https://docs.stellarcyber.ai/5.1.1/Configure/Connectors/Oracle-Cloud-Infra-Connectors.htm</td>
   </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>CrowdStrike LogScale</strong></td>
+  </tr>
+  <tr>
+    <td>Your OCI Logs Have a Story to Tell: Here Are Ways to Send Them to CrowdStrike LogScale SIEM</td>
+    <td>https://www.ateam-oracle.com/post/oci-integration-with-crowdstrike-logscale-siem</td>
+  </tr>
 
   <tr>
     <td colspan="2" align="center"><strong>Azure Sentinel Integration</strong></td>
