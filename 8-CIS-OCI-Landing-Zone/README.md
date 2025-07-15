@@ -1,9 +1,9 @@
 
-# CIS OCI Landing Zone Assets
+# OCI Core Landing Zone Assets
 
-The CIS OCI Landing Zone automates the creation of a secure tenancy that follows the guidelines in the CIS (Center for Internet Security) OCI benchmark. 
+The OCI Core Landing Zone automates the creation of a secure tenancy that follows the guidelines in the CIS (Center for Internet Security) OCI benchmark. 
 
-The following table summarizes the curated list of resource URLs for the CIS OCI Landing Zone:
+The following table summarizes the curated list of resource URLs for the OCI Core Landing Zone:
 <table>
   <tr>
     <th>Resource Title</th>
@@ -42,14 +42,14 @@ The following table summarizes the curated list of resource URLs for the CIS OCI
     <td>https://github.com/oracle-quickstart/terraform-oci-secure-workloads</td>
   </tr>
   <tr>
-    <td>CIS Landing Zone SIEM Workload Module</td>
+    <td>OCI Core Landing Zone SIEM Workload Module</td>
     <td>https://blogs.oracle.com/ateam/post/cis-landing-zone-siem-workload-module</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h2>CIS OCI Landing Zone Enhanced Modules</h2></td>
+    <td colspan="2" align="center"><h2>OCI Core Landing Zone Enhanced Modules</h2></td>
   </tr>
   <tr>
-    <td>CIS Landing Zone Enhanced Modules</td>
+    <td>OCI Core Landing Zone Enhanced Modules</td>
     <td>https://blogs.oracle.com/ateam/post/cis-landing-zone-enhanced-modules</td>
   </tr>
   <tr>
