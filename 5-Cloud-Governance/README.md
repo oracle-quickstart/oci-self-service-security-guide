@@ -28,6 +28,11 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/automating-the-export-of-oci-finops-open-cost-and-usage-specification-focus-reports-to-object-storage</td>
   </tr>
   <tr>
+    <td>From Cost Reports to Cost Intelligence: Automating FinOps Insights in OCI</td>
+    <td>Part 1: https://www.ateam-oracle.com/post/detecting-anomalies-in-oci-cost-reports-using-autonomous-database-and-builtin-ai-part-1<br>
+    Part 2: https://blogs.oracle.com/ateam/post/from-cost-reports-to-cost-intelligence-automating-finops-insights-in-oci-part-2</td>
+  </tr>
+  <tr>
     <td>Financial Metrics</td>
     <td>https://docs.public.oneportal.content.oci.oraclecloud.com/en-us/iaas/Content/cloud-adoption-framework/financial-metrics.htm</td>
   </tr>
@@ -70,20 +75,8 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><strong>Cloud Governance Model</strong></td>
   </tr>
   <tr>
-    <td>Overview</td>
-    <td>https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-1</td>
-  </tr>
-  <tr>
-    <td>Resource Organization</td>
-    <td> https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-2</td>
-  </tr>
-  <tr>
-    <td>Resource Governance</td>
-    <td> https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-3</td>
-  </tr>
-  <tr>
-    <td>Observability and Security Monitoring</td>
-    <td> https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-4</td>
+    <td>Establish a foundational Oracle Cloud Infrastructure Governance Model</td>
+    <td>https://docs.oracle.com/en/solutions/foundational-oci-governance-model/index.html</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Tenancy Cleanup</strong></td>

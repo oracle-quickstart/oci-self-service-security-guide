@@ -193,10 +193,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Tasks/federatingSAML.htm</td>
   </tr>
   <tr>
-    <td>How to bring Entra ID users and groups into IDCS</td>
-    <td>https://www.ateam-oracle.com/post/how-to-bring-azure-ad-users-and-groups-into-idcs</td>
-  </tr>
-  <tr>
     <td>User Provisioning for Federated Users</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Tasks/usingscim.htm</td>
   </tr>
