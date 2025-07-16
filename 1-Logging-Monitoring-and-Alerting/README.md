@@ -90,6 +90,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/apache-server-access-logs-in-oci-logging-analytics</td>
   </tr>
   <tr>
+    <td>Unifying Cloud Guard Instance Security Logs with Logging Analytics</td>
+    <td>https://www.ateam-oracle.com/post/unifying-oci-cloud-guard-instance-security-logs-using-oci-logging-analytics</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><strong>Splunk SIEM Integration</strong></td>
   </tr>
   <tr>
