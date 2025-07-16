@@ -28,6 +28,11 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/automating-the-export-of-oci-finops-open-cost-and-usage-specification-focus-reports-to-object-storage</td>
   </tr>
   <tr>
+    <td>From Cost Reports to Cost Intelligence: Automating FinOps Insights in OCI</td>
+    <td>Part 1: https://www.ateam-oracle.com/post/detecting-anomalies-in-oci-cost-reports-using-autonomous-database-and-builtin-ai-part-1<br>
+    Part 2: https://blogs.oracle.com/ateam/post/from-cost-reports-to-cost-intelligence-automating-finops-insights-in-oci-part-2</td>
+  </tr>
+  <tr>
     <td>Financial Metrics</td>
     <td>https://docs.public.oneportal.content.oci.oraclecloud.com/en-us/iaas/Content/cloud-adoption-framework/financial-metrics.htm</td>
   </tr>
