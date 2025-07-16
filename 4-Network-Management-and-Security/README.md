@@ -24,6 +24,18 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/oci-networking-best-practices---part-two---oci-network-security </td>
   </tr>
   <tr>
+    <td>OCI Network Firewall Video Series - Intro</td>
+    <td>https://www.youtube.com/watch?v=nim7YaLhfK0</td>
+  </tr>
+  <tr>
+    <td>OCI Network Firewall Video Series - Stateful Firewall Rules</td>
+    <td>https://www.youtube.com/watch?v=nGruc4DN7Hw</td>
+  </tr>
+  <tr>
+    <td>Securing OCI-Based Workloads: Using OCI Network Firewall to Shield your Core Environment from End Customers</td>
+    <td>https://www.ateam-oracle.com/post/securing-ocibased-workloads-using-oci-network-firewall-to-shield-your-core-environment-from-end-customers</td>
+  </tr>
+  <tr>
     <td>OCI Network Firewall - Hub and Spoke traffic inspection</td>
     <td>https://www.ateam-oracle.com/post/oci-network-firewall---hub-and-spoke-traffic-inspection</td>
   </tr>
