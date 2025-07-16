@@ -73,6 +73,13 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/oci-private-dns-best-practices</td>
   </tr>
   <tr>
+    <td colspan="2" align="center"><strong>Multicloud</strong></td>
+</tr>
+ <tr>
+    <td>Design a Multicloud Network to Deploy Oracle Database@Azure</td>
+    <td>https://docs.oracle.com/en/solutions/network-for-db-at-azure/index.html#GUID-82966157-B6C0-4F80-AD7B-63E0D9931DCC</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><h2>Network Connectivity</h2></td>
 </tr>
   <tr>
