@@ -185,6 +185,13 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/set-up-single-signon-and-user-provisioning-between-oci-iam-and-onelogin</td>
   </tr>
   <tr>
+    <td colspan="2" align="center"><h3>Access Governance and User Lifecycle Management</h3></td>
+  </tr>
+   <tr>
+    <td>Designing for Least Privilege: The Lifecycle of Time-Bound Access in Oracle Access Governance</td>
+    <td>https://www.ateam-oracle.com/post/lifecycle-of-timebound-access-in-access-governance</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><h3>IAM without Identity Domains</h3> (To be deprecated)</td>
   </tr>
    <tr>
