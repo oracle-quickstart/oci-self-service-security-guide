@@ -29,8 +29,13 @@ The following table summarizes the curated list of resource URLs for this domain
   </tr>
   <tr>
     <td>From Cost Reports to Cost Intelligence: Automating FinOps Insights in OCI</td>
-    <td>Part 1: https://www.ateam-oracle.com/post/detecting-anomalies-in-oci-cost-reports-using-autonomous-database-and-builtin-ai-part-1<br>
-    Part 2: https://www.ateam-oracle.com/post/from-cost-reports-to-cost-intelligence-automating-finops-insights-in-oci-part-2</td>
+    <td>
+      Part 1: https://www.ateam-oracle.com/detecting-anomalies-in-oci-cost-reports-using-autonomous-database-and-builtin-ai-part-1<br>
+      Part 2: https://www.ateam-oracle.com/from-cost-reports-to-cost-intelligence-automating-finops-insights-in-oci-part-2<br>
+      Part 3: https://www.ateam-oracle.com/from-cost-reports-to-cost-intelligence-automating-finops-insights-in-oci-part-3<br>
+      Part 4: https://www.ateam-oracle.com/from-cost-reports-to-cost-intelligence-automating-finops-insights-in-oci-part-4<br>
+      Part 5: https://www.ateam-oracle.com/from-cost-reports-to-cost-intelligence-automating-finops-insights-in-oci-part-5
+    </td>
   </tr>
   <tr>
     <td>Financial Metrics</td>
