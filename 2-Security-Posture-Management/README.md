@@ -44,6 +44,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/exporting-cloud-guard-problems-to-a-csv-file</td>
   </tr>
   <tr>
+    <td>Day One and Beyond - Tenancy and OS Security</td>
+    <td>https://www.youtube.com/watch?v=M8fxxM0z7AA</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><strong>Prisma Cloud</strong></td>
   </tr>
   <tr>
