@@ -1,4 +1,4 @@
-# Security_Guide
+# Security Guide
 
 This repository is a comprehensive collection of resources/URLs designed to assist customers in aligning their Oracle Cloud Infrastructure (OCI) implementations with the Center for Internet Security (CIS) OCI Foundations Benchmark recommendations and Oracle Best Practices.
 
