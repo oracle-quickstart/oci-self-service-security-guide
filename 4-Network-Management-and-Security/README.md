@@ -23,6 +23,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>OCI Network Security Best Practices, Recommendations, and Tips</td>
     <td>https://www.ateam-oracle.com/post/oci-networking-best-practices---part-two---oci-network-security </td>
   </tr>
+ <tr>
+    <td>Traditional Networks to the Cloud – The OSI Model</td>
+    <td>https://www.ateam-oracle.com/osi-model</td>
+  </tr>
   <tr>
     <td>OCI Network Firewall Video Series - Intro</td>
     <td>https://www.youtube.com/watch?v=nim7YaLhfK0</td>
@@ -47,7 +51,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Video: Deploying Hub-and-Spoke Architecture with FortiGate Firewall for North-South Traffic Inspection</td>
     <td>https://www.youtube.com/watch?v=FZR0ILkoJJo</td>
   </tr>
-
+  <tr>
+    <td>NAT on OCI Network Firewall</td>
+    <td>https://www.ateam-oracle.com/nat-on-oci-network-firewall</td>
+  </tr>
   <tr>
     <td>Enhancing IP Address Management with OCI New Tool – IP Address Insight</td>
     <td>https://www.ateam-oracle.com/post/oci-ip-address-insight</td>
@@ -83,6 +90,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Networking Fundamentals for Oracle Database@Azure</td>
     <td>https://www.ateam-oracle.com/post/networking-fundamentals-for-oracle-databaseazure</td>
   </tr>
+ <tr>
+    <td>Networking Fundamentals for Oracle DB@AWS</td>
+    <td>https://www.ateam-oracle.com/networking-fundamentals-for-oracle-dbaws</td>
+  </tr>
   <tr>
     <td colspan="2" align="center"><h2>Network Connectivity</h2></td>
 </tr>
@@ -93,6 +104,15 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>Oracle Database at Azure DNS options</td>
     <td>https://www.ateam-oracle.com/post/oracle-database-at-azure-dns-options</td>
+  </tr>
+  <tr>
+    <td>DNS resolution for Oracle Database at AWS</td>
+    <td>https://www.ateam-oracle.com/dns-resolution-odbaws</td>
+  </tr>
+
+  <tr>
+    <td>Configure the DNS resolution for Oracle Database at AWS</td>
+    <td>https://www.ateam-oracle.com/configure-the-dns-resolution-for-oracle-database-at-aws</td>
   </tr>
   <tr>
     <td>FastConnect Public Peering: Architectures and Use Cases</td>
@@ -125,6 +145,11 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>OCI-AWS interconnect using Equinix FCR</td>
     <td>https://blogs.oracle.com/ateam/post/ociaws-interconnect-using-equinix-fcr</td>
+  </tr>
+
+  <tr>
+    <td>Direct Multicloud FastConnect via Cross Connect</td>
+    <td>https://www.ateam-oracle.com/direct-multicloud-fastconnect-via-cross-connect</td>
   </tr>
   <tr>
     <td>Setting Up Site-to-Site VPN Connectivity from OCI to Azure Virtual WAN</td>

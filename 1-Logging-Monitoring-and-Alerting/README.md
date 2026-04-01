@@ -35,6 +35,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/solutions/oci-aggregate-logs-siem/index.html</td>
   </tr>
   <tr>
+    <td>Day One and Beyond: Mastering Cloud Visibility: Security Monitoring & Access Governance in OCI</td>
+    <td>https://www.youtube.com/watch?v=ujX9nvBuuj8</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><strong>OCI Logging Analytics</strong></td>
   </tr>
   <tr>
@@ -237,5 +241,9 @@ The following table summarizes the curated list of resource URLs for this domain
    <tr>
     <td>Notifications for Network Outages</td>
     <td>https://www.ateam-oracle.com/post/oci-observability-and-management-for-networking---part-three---notifications-for-network-outages</td>
+  </tr>
+   <tr>
+    <td>Automating Policy and Dynamic Group Monitoring in Oracle Cloud Infrastructure</td>
+    <td>https://www.ateam-oracle.com/automating-policy-and-dynamic-group-monitoring-in-oracle-cloud-infrastructure</td>
   </tr>
 </table>

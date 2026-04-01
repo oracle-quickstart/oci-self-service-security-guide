@@ -28,6 +28,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/oci-iam-identity-domains-best-practices</td>
   </tr>
   <tr>
+    <td>OCI Home Region Explained: Its Role in Identity Domains and Service Access</td>
+    <td>https://www.ateam-oracle.com/oci-home-region-explained-its-role-in-identity-domains-and-service-access</td>
+  </tr>
+  <tr>
     <td>Identifying Users in OCI IAM Domain with Local Passwords and No MFA Enabled</td>
     <td>https://www.ateam-oracle.com/post/identifying-users-in-oci-iam-domain-with-local-passwords-and-no-mfa-enabled</td>
   </tr>
