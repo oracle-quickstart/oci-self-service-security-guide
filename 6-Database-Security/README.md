@@ -13,6 +13,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><strong>Multicloud Security</strong></td>
   </tr>
   <tr>
+    <td>Introduction Video on Database@Azure</td>
+    <td>https://youtu.be/CfKdDCnE-KE</td>
+  </tr>
+  <tr>
     <td>Build a secure multicloud architecture for Oracle Database@Azure</td>
     <td>https://docs.oracle.com/en/solutions/secure-db-azure/index.html</td>
   </tr>
@@ -72,5 +76,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Authenticating users with OCI IAM Identity Domain with MFA using Radius Proxy for Oracle Database - Live Lab</td>
     <td>https://oracle-livelabs.github.io/security/oci-iam-radiusproxy-mfa-db/workshops/tenancy/index.html?lab=introduction</td>
   </tr>
+  <tr>
+    <td>Oracle Database Native Users Multi-Factor Authentication (MFA)</td>
+    <td>https://docs.oracle.com/en/learn/mfa-db23ai-oma/index.html#introduction</td>
+  </tr>
+  
 </table>
 
