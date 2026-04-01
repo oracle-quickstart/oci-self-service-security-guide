@@ -238,4 +238,8 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Notifications for Network Outages</td>
     <td>https://www.ateam-oracle.com/post/oci-observability-and-management-for-networking---part-three---notifications-for-network-outages</td>
   </tr>
+   <tr>
+    <td>Automating Policy and Dynamic Group Monitoring in Oracle Cloud Infrastructure</td>
+    <td>https://www.ateam-oracle.com/automating-policy-and-dynamic-group-monitoring-in-oracle-cloud-infrastructure</td>
+  </tr>
 </table>
