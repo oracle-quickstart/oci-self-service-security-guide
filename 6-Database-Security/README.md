@@ -20,7 +20,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Build a secure multicloud architecture for Oracle Database@Azure</td>
     <td>https://docs.oracle.com/en/solutions/secure-db-azure/index.html</td>
   </tr>
-
+  <tr>
+    <td>Integrate Oracle Data Safe and OCI Logging Analytics with OCI IAM and Microsoft Entra ID</td>
+    <td>https://docs.oracle.com/en/learn/oracle-datasafe-logginganalytics/#introduction</td>
+  </tr>
   <tr>
     <td colspan="2" align="center"><strong>Data Safe</strong></td>
   </tr>
