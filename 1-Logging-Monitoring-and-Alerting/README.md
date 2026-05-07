@@ -246,4 +246,8 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Automating Policy and Dynamic Group Monitoring in Oracle Cloud Infrastructure</td>
     <td>https://www.ateam-oracle.com/automating-policy-and-dynamic-group-monitoring-in-oracle-cloud-infrastructure</td>
   </tr>
+   <tr>
+    <td>Monitor Oracle Cloud Infrastructure with Dynatrace</td>
+    <td>https://docs.oracle.com/en/learn/monitor-oci-dynatrace/#introduction</td>
+  </tr>
 </table>
