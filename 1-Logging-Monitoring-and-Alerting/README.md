@@ -39,6 +39,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.youtube.com/watch?v=ujX9nvBuuj8</td>
   </tr>
   <tr>
+    <td>OCI Streaming to SIEM: Unmasking Missing Events with a Python Kafka Consumer</td>
+    <td>https://www.ateam-oracle.com/oci-streaming-to-siem-unmasking-missing-events-with-a-python-kafka-consumer</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><strong>OCI Logging Analytics</strong></td>
   </tr>
   <tr>
