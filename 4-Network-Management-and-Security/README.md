@@ -65,7 +65,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/nat-on-oci-network-firewall</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h4>Addressing and DNS</h4></td>
+    <td colspan="2" align="center"><h4>IP Addressing and DNS</h4></td>
   </tr>
   <tr>
     <td>Enhancing IP Address Management with OCI New Tool – IP Address Insight</td>
