@@ -151,10 +151,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://learn.microsoft.com/en-us/azure/sentinel/data-connectors/oracle-cloud-infrastructure-using-azure-functions</td>
   </tr>
   <tr>
-    <td>Step by step guide for recieving logs from OCI by using the Microsoft Azure Sentinel OCI connector(Azure Functions)</td>
-    <td>https://docs.oracle.com/en/learn/stream-oci-logs-to-azure-sentinel/index.html</td>
-  </tr>
-  <tr>
     <td>Step by step guide for sending logs to Microsoft Azure Sentinel using OCI Functions</td>
     <td>https://docs.oracle.com/en/learn/oci-logs-ms-azure-sentinel/index.html</td>
   </tr>
