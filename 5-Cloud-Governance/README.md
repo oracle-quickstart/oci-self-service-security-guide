@@ -44,14 +44,11 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/how-to-get-a-list-of-all-freeform-tags-in-your-tenancy</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h4>Bulk Operations</h4></td>
+    <td colspan="2" align="center"><h4>Automation and Tools</h4></td>
   </tr>
   <tr>
     <td>Bulk Editing tags on resources using the OCI CLI</td>
     <td>https://blogs.oracle.com/ateam/post/bulk-editing-tags-on-resources-using-the-oci-cli</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><h4>Automation and Tools</h4></td>
   </tr>
   <tr>
     <td>Bulk Default Tag Updater Script</td>
