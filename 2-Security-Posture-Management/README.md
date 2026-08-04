@@ -12,7 +12,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><h3>Oracle Cloud Guard</h3></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h4>Introduction and Setup</h4></td>
+    <td colspan="2" align="center"><h4>Introduction</h4></td>
   </tr>
   <tr>
     <td>Intro to Cloud Guard</td>
@@ -59,7 +59,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><h3>OCI Vulnerability Scanning</h3></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h4>OCI Service</h4></td>
+    <td colspan="2" align="center"><h4>Introduction</h4></td>
   </tr>
   <tr>
     <td>OCI Vulnerability Scanning Service - Getting started</td>
