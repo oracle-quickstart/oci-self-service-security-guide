@@ -42,20 +42,20 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><h4>Operational Capabilities</h4></td>
   </tr>
   <tr>
-    <td>Oracle Data Safe: Continuous Assessment and Drift Detection</td>
-    <td>https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_event_id=339826926174411022084472967537894259948&session=205641170939544</td>
+    <td>Security Assessment Scheduling, Baselines, and Drift Detection</td>
+    <td>https://docs.oracle.com/en-us/iaas/data-safe/doc/security-assessment-overview.html</td>
   </tr>
    <tr>
-    <td>Oracle Data Safe: Audit Policy Management</td>
-    <td>https://blogs.oracle.com/cloudsecurity/post/announcing-audit-policy-management-using-audit-insights-in-oracle-data-safe</td>
+    <td>Manage Audit Policies with Oracle Data Safe Security Policies</td>
+    <td>https://docs.oracle.com/en-us/iaas/data-safe/doc/manage-security-policies.html</td>
   </tr>
    <tr>
-    <td>Oracle Data Safe: Address Audit Data Retention Requirements</td>
-    <td>https://blogs.oracle.com/cloudsecurity/post/audit-data-retention-with-oracle-data-safe</td>
+    <td>Manage Audit Data Retention with Audit Profiles</td>
+    <td>https://docs.oracle.com/en-us/iaas/data-safe/doc/audit-profiles.html</td>
   </tr>
    <tr>
-    <td>Oracle Data Safe: Managing Database User Profiles</td>
-    <td>https://blogs.oracle.com/cloudsecurity/post/unlock-power-of-database-user-profiles-with-data-safe</td>
+    <td>Assess Database User Profiles with Oracle Data Safe</td>
+    <td>https://docs.oracle.com/en-us/iaas/data-safe/doc/user-profiles.html</td>
   </tr>
    <tr>
     <td>Oracle Data Safe: Simplified Notifications</td>
