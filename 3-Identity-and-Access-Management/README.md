@@ -12,7 +12,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><h3>IAM with Identity Domains</h3></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h4>Introduction and Context</h4></td>
+    <td colspan="2" align="center"><h4>Introduction</h4></td>
   </tr>
   <tr>
     <td>Day One and Beyond: Identity and Access Management</td>
