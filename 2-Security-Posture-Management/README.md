@@ -9,7 +9,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <th>URL</th>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>Oracle Cloud Guard</strong></td>
+    <td colspan="2" align="center"><h3>Oracle Cloud Guard</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Introduction and Setup</h4></td>
   </tr>
   <tr>
     <td>Intro to Cloud Guard</td>
@@ -24,12 +27,18 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en-us/iaas/cloud-guard/using/part-start.htm</td>
   </tr>
   <tr>
+    <td colspan="2" align="center"><h4>Operations and Notifications</h4></td>
+  </tr>
+  <tr>
     <td>Tuning Oracle Cloud Guard</td>
     <td>https://blogs.oracle.com/ateam/post/cloud-guard-tuning-tips</td>
   </tr>
   <tr>
     <td>Configuring Cloud Guard Notifications</td>
     <td>https://docs.public.oneportal.content.oci.oraclecloud.com/en-us/iaas/cloud-guard/using/export-notifs-config.htm</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Reporting and Export</h4></td>
   </tr>
   <tr>
     <td>Retrieve Oracle Cloud Guard Problem Reports using a Python Script</td>
@@ -40,68 +49,24 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/exporting-cloud-guard-problems-to-a-csv-file</td>
   </tr>
   <tr>
+    <td colspan="2" align="center"><h4>Further Learning</h4></td>
+  </tr>
+  <tr>
     <td>Day One and Beyond - Tenancy and OS Security</td>
     <td>https://www.youtube.com/watch?v=M8fxxM0z7AA</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>Check Point CloudGuard CSPM</strong></td>
+    <td colspan="2" align="center"><h3>OCI Vulnerability Scanning</h3></td>
   </tr>
   <tr>
-    <td>How to Onboard Oracle Cloud Infrastructure (OCI) to Check Point CloudGuard CSPM</td>
-    <td>https://youtu.be/d4MoFMvpBGA</td>
-  </tr>
-  <tr>
-    <td>Onboarding Oracle Cloud Infrastructure Environments</td>
-    <td>https://sc1.checkpoint.com/documents/CloudGuard_Dome9/Documentation/Getting-Started/OnboardOCI.htm</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Lacework</strong></td>
-  </tr>
-  <tr>
-    <td>Integrate Lacework with OCI</td>
-    <td>https://docs.lacework.net/onboarding/oci-integrate-lacework-overview</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Orca Security</strong></td>
-  </tr>
-  <tr>
-    <td>Comprehensive Security Coverage for Oracle Cloud</td>
-    <td>https://orca.security/resources/video/comprehensive-security-oracle-cloud/</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Prisma Cloud</strong></td>
-  </tr>
-  <tr>
-    <td>Onboard Your Oracle Cloud Infrastructure Account</td>
-    <td>https://docs.prismacloud.io/en/enterprise-edition/content-collections/connect/connect-cloud-accounts/onboard-your-oci-account/onboard-your-oci-account</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Qualys TotalCloud</strong></td>
-  </tr>
-  <tr>
-    <td>Create Oracle Cloud Infrastructure Connectors</td>
-    <td>https://docs.qualys.com/en/conn/latest/oci/oci_connectors.htm</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>WIZ</strong></td>
-  </tr>
-  <tr>
-    <td>Wiz - Graph-based cloud security approach to OCI</td>
-    <td>https://blogs.oracle.com/cloudmarketplace/post/wiz-graph-based-cloud-security-approach-to-oci</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Zscaler Posture Control (ZPC)</strong></td>
-  </tr>
-  <tr>
-    <td>Onboarding an Oracle Cloud Infrastructure (OCI) Tenant</td>
-    <td>https://help.zscaler.com/zpc/onboarding-oracle-cloud-infrastructure-oci-tenant</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Vulnerability scanning</strong></td>
+    <td colspan="2" align="center"><h4>OCI Service</h4></td>
   </tr>
   <tr>
     <td>OCI Vulnerability Scanning Service - Getting started</td>
     <td>https://docs.oracle.com/en-us/iaas/scanning/using/overview.htm</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Integrations and Extensions</h4></td>
   </tr>
   <tr>
     <td>OCI Vulnerability Scanning service with Qualys Agent workshop on LiveLabs</td>
@@ -118,5 +83,61 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
    <td>Using 3rd party Vulnerability scanner</td>
    <td>If you are using a 3rd party enterprise-wide Vulnerability scanning tool (ex: Tenable Nessus, Rapid7, and others) our general recommendation is to use it for your OCI compute instances too.</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h3>Third-Party CSPM Integrations</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Check Point CloudGuard CSPM</h4></td>
+  </tr>
+  <tr>
+    <td>How to Onboard Oracle Cloud Infrastructure (OCI) to Check Point CloudGuard CSPM</td>
+    <td>https://youtu.be/d4MoFMvpBGA</td>
+  </tr>
+  <tr>
+    <td>Onboarding Oracle Cloud Infrastructure Environments</td>
+    <td>https://sc1.checkpoint.com/documents/CloudGuard_Dome9/Documentation/Getting-Started/OnboardOCI.htm</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Lacework</h4></td>
+  </tr>
+  <tr>
+    <td>Integrate Lacework with OCI</td>
+    <td>https://docs.lacework.net/onboarding/oci-integrate-lacework-overview</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Orca Security</h4></td>
+  </tr>
+  <tr>
+    <td>Comprehensive Security Coverage for Oracle Cloud</td>
+    <td>https://orca.security/resources/video/comprehensive-security-oracle-cloud/</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Prisma Cloud</h4></td>
+  </tr>
+  <tr>
+    <td>Onboard Your Oracle Cloud Infrastructure Account</td>
+    <td>https://docs.prismacloud.io/en/enterprise-edition/content-collections/connect/connect-cloud-accounts/onboard-your-oci-account/onboard-your-oci-account</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Qualys TotalCloud</h4></td>
+  </tr>
+  <tr>
+    <td>Create Oracle Cloud Infrastructure Connectors</td>
+    <td>https://docs.qualys.com/en/conn/latest/oci/oci_connectors.htm</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Wiz</h4></td>
+  </tr>
+  <tr>
+    <td>Wiz - Graph-based cloud security approach to OCI</td>
+    <td>https://blogs.oracle.com/cloudmarketplace/post/wiz-graph-based-cloud-security-approach-to-oci</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Zscaler Posture Control (ZPC)</h4></td>
+  </tr>
+  <tr>
+    <td>Onboarding an Oracle Cloud Infrastructure (OCI) Tenant</td>
+    <td>https://help.zscaler.com/zpc/onboarding-oracle-cloud-infrastructure-oci-tenant</td>
   </tr>
 </table>
