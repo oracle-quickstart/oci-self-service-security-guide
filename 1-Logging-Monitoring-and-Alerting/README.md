@@ -12,11 +12,11 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><h3>Enable Resource Logging</h3></td>
   </tr>
   <tr>
-    <td>VCN flow logs</td>
+    <td>VCN Flow Logs</td>
     <td>https://blogs.oracle.com/cloud-infrastructure/post/announcing-vcn-flow-logs-general-availability-for-oracle-cloud-infrastructure</td>
   </tr>
   <tr>
-    <td>VCN Flow logs concepts</td>
+    <td>VCN Flow Logs Concepts</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/vcn-flow-logs.htm</td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://cloudmarketplace.oracle.com/marketplace/en_US/listing/174862207</td>
   </tr>
   <tr>
-    <td>Security Fundamentals Dashboard (SFD) Github repo</td>
+    <td>Security Fundamentals Dashboard (SFD) GitHub repo</td>
     <td>https://github.com/oracle-quickstart/oci-o11y-solutions/blob/main/knowledge-content/MAP/security-fundamentals-dashboards/README.md</td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><strong>Azure Sentinel Integration</strong></td>
   </tr>
   <tr>
-    <td>Azure Market place sentinel solution</td>
+    <td>Azure Marketplace sentinel solution</td>
     <td>https://azuremarketplace.microsoft.com/en-us/marketplace/apps/azuresentinel.azure-sentinel-solution-ocilogs</td>
   </tr>
   <tr>
@@ -156,7 +156,7 @@ The following table summarizes the curated list of resource URLs for this domain
     (Use OCI Streams as source of type 'kafka' and 'datadog logs' as destination)</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>Qradar Integration</strong></td>
+    <td colspan="2" align="center"><strong>QRadar Integration</strong></td>
   </tr>
   <tr>
     <td>Move Logs from Oracle Cloud Infrastructure to IBM QRadar</td>
@@ -204,10 +204,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.stellarcyber.ai/5.1.1/Configure/Connectors/Oracle-Cloud-Infra-Connectors.htm</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>Sumologic Integration</strong></td>
+    <td colspan="2" align="center"><strong>Sumo Logic Integration</strong></td>
   </tr>
   <tr>
-    <td>Sumologic Integration</td>
+    <td>Sumo Logic Integration</td>
     <td>https://docs.oracle.com/en/learn/blog_sumologic/index.html</td>
   </tr>
   <tr>
@@ -230,7 +230,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/learn/oci-logs-streaming-kafka-logstash/index.html</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h3>Notifications,Monitoring & Alerting</h3></td>
+    <td colspan="2" align="center"><h3>Notifications, ßMonitoring & Alerting</h3></td>
   </tr>
   <tr>
     <td>Notification Overview</td>
