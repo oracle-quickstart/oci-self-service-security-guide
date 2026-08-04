@@ -10,36 +10,37 @@ The following table summarizes the curated list of resource URLs for this domain
     <th>URL</th>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>Multicloud Security</strong></td>
+    <td colspan="2" align="center"><h3>Oracle Data Safe</h3></td>
   </tr>
   <tr>
-    <td>Introduction Video on Database@Azure</td>
-    <td>https://youtu.be/CfKdDCnE-KE</td>
+    <td colspan="2" align="center"><h4>Introduction</h4></td>
   </tr>
   <tr>
-    <td>Build a secure multicloud architecture for Oracle Database@Azure</td>
-    <td>https://docs.oracle.com/en/solutions/secure-db-azure/index.html</td>
+    <td>Oracle Data Safe Documentation - Get started</td>
+    <td>https://docs.oracle.com/en/cloud/paas/data-safe/</td>
   </tr>
   <tr>
-    <td>Integrate Oracle Data Safe and OCI Logging Analytics with OCI IAM and Microsoft Entra ID</td>
-    <td>https://docs.oracle.com/en/learn/oracle-datasafe-logginganalytics/#introduction</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Data Safe</strong></td>
+    <td>Simplify Database Security Posture Management with Oracle Data Safe</td>
+    <td>https://docs.oracle.com/en/learn/oracle-datasafe-db-security-mgmt/#audience</td>
   </tr>
   <tr>
     <td>Get Started with Oracle Data Safe Fundamentals – Live Lab</td>
     <td>https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=598&clear=180</td>
   </tr>
-   <tr>
-    <td>Oracle Data Safe Documentation - Get started</td>
-    <td>https://docs.oracle.com/en/cloud/paas/data-safe/</td>
+  <tr>
+    <td colspan="2" align="center"><h4>Target Registration and Connectivity</h4></td>
   </tr>
-   <tr>
-    <td>Simplify Database Security Posture Management with Oracle Data Safe</td>
-    <td>https://docs.oracle.com/en/learn/oracle-datasafe-db-security-mgmt/#audience</td>
+  <tr>
+    <td>Oracle Data Safe: Target Registration using OCI CLI</td>
+    <td>https://giansartordbsec.com/2023/12/06/oracle-data-safe-register-targets-using-oci-command-line-interface/</td>
   </tr>
-
+  <tr>
+    <td>Connect Oracle Data Safe to Exadata and Autonomous Database</td>
+    <td>https://docs.oracle.com/en/solutions/data-safe-exadata-adb/index.html</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Operational Capabilities</h4></td>
+  </tr>
   <tr>
     <td>Oracle Data Safe: Continuous Assessment and Drift Detection</td>
     <td>https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_event_id=339826926174411022084472967537894259948&session=205641170939544</td>
@@ -60,29 +61,38 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Oracle Data Safe: Simplified Notifications</td>
     <td>https://blogs.oracle.com/database/post/data-safe-notifications</td>
   </tr>
-   <tr>
-    <td>Oracle Data Safe: Target Registration using OCI CLI</td>
-    <td>https://giansartordbsec.com/2023/12/06/oracle-data-safe-register-targets-using-oci-command-line-interface/</td>
-  </tr>
-  <tr>
-    <td>Connect Oracle Data Safe to Exadata and Autonomous Database</td>
-    <td>https://docs.oracle.com/en/solutions/data-safe-exadata-adb/index.html</td>
-  </tr>
   <tr>
     <td>Oracle Data Safe - SQL Firewall overview</td>
     <td>https://docs.oracle.com/en/cloud/paas/data-safe/udscs/sql-firewall-overview.html</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>Database Authentication</strong></td>
+    <td colspan="2" align="center"><h3>Multicloud Database Security</h3></td>
   </tr>
   <tr>
-    <td>Authenticating users with OCI IAM Identity Domain with MFA using Radius Proxy for Oracle Database - Live Lab</td>
-    <td>https://oracle-livelabs.github.io/security/oci-iam-radiusproxy-mfa-db/workshops/tenancy/index.html?lab=introduction</td>
+    <td>Build a secure multicloud architecture for Oracle Database@Azure</td>
+    <td>https://docs.oracle.com/en/solutions/secure-db-azure/index.html</td>
+  </tr>
+  <tr>
+    <td>Introduction Video on Database@Azure</td>
+    <td>https://youtu.be/CfKdDCnE-KE</td>
+  </tr>
+  <tr>
+    <td>Integrate Oracle Data Safe and OCI Logging Analytics with OCI IAM and Microsoft Entra ID</td>
+    <td>https://docs.oracle.com/en/learn/oracle-datasafe-logginganalytics/#introduction</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h3>Database Authentication</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Implementation Guides</h4></td>
   </tr>
   <tr>
     <td>Oracle Database Native Users Multi-Factor Authentication (MFA)</td>
     <td>https://docs.oracle.com/en/learn/mfa-db23ai-oma/index.html#introduction</td>
   </tr>
+  <tr>
+    <td>Authenticating users with OCI IAM Identity Domain with MFA using Radius Proxy for Oracle Database - Live Lab</td>
+    <td>https://oracle-livelabs.github.io/security/oci-iam-radiusproxy-mfa-db/workshops/tenancy/index.html?lab=introduction</td>
+  </tr>
   
 </table>
-
