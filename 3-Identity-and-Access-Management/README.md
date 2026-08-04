@@ -12,16 +12,11 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><h3>IAM with Identity Domains</h3></td>
   </tr>
   <tr>
+    <td colspan="2" align="center"><h4>Introduction and Context</h4></td>
+  </tr>
+  <tr>
     <td>Day One and Beyond: Identity and Access Management</td>
     <td>https://www.youtube.com/watch?v=tWl2RhUwoBI</td>
-  </tr>
-  <tr>
-    <td>How Policies work with IAM Domains</td>
-    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/policieshow/how-policies-work.htm</td>
-  </tr>
-  <tr>
-    <td>Best Practices for IAM in OCI - Whitepaper</td>
-    <td>https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/best-practices-for-iam-on-oci.pdf</td>
   </tr>
   <tr>
     <td>OCI IAM Identity Domains Best Practices</td>
@@ -32,12 +27,26 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/oci-home-region-explained-its-role-in-identity-domains-and-service-access</td>
   </tr>
   <tr>
-    <td>Identifying Users in OCI IAM Domain with Local Passwords and No MFA Enabled</td>
-    <td>https://www.ateam-oracle.com/post/identifying-users-in-oci-iam-domain-with-local-passwords-and-no-mfa-enabled</td>
+    <td colspan="2" align="center"><h4>Policy and Governance</h4></td>
+  </tr>
+  <tr>
+    <td>Best Practices for IAM in OCI - Whitepaper</td>
+    <td>https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/best-practices-for-iam-on-oci.pdf</td>
+  </tr>
+  <tr>
+    <td>How Policies work with IAM Domains</td>
+    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/policieshow/how-policies-work.htm</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Advanced Security Checks</h4></td>
   </tr>
   <tr>
     <td>OCI IAM Domain Network Perimeter Use Case: Restricting access to OCI PaaS services such as OIC and OAC</td>
     <td>https://www.ateam-oracle.com/post/oci-iam-domain-network-perimeter-use-case-restricting-access-to-oci-paas-services-such-as-oic-and-oac</td>
+  </tr>
+  <tr>
+    <td>Identifying Users in OCI IAM Domain with Local Passwords and No MFA Enabled</td>
+    <td>https://www.ateam-oracle.com/post/identifying-users-in-oci-iam-domain-with-local-passwords-and-no-mfa-enabled</td>
   </tr>
      <tr>
     <td colspan="2" align="center" id="iam"><h3>IAM Policies, Groups and Compartments</h3></td>
@@ -71,7 +80,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/what-policies-are-required-to-create-a-bucket-inside-a-oci-security-zone</td>
   </tr>
   <tr>
-    <tr>
     <td>Deep Dive into Tag based Oracle Cloud Infrastructure Identity and Access Management Policies</td>
     <td>https://docs.oracle.com/en/learn/oci-policy-deep-dive/#introduction</td>
   </tr>
@@ -84,22 +92,32 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/oracle-cloud-infrastructure-compartments</td>
   </tr>
   <tr>
-    <td>Resource Organization</td>
-    <td>https://www.ateam-oracle.com/post/governance-the-key-ingredient-to-success-part-2</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><h3>MFA</strong></h3></td>
+    <td colspan="2" align="center"><h3>Multifactor Authentication (MFA)</h3></td>
   </tr>
   <tr>
     <td>Enable MFA in an OCI IAM identity domain</td>
     <td> https://blogs.oracle.com/cloudsecurity/post/implementing-mfa-oci-iam-identity-domains</td>
   </tr>
-   <tr>
-    <td>MFA for Local OCI Users</td>
-    <td>https://blogs.oracle.com/cloud-infrastructure/post/multi-factor-authentication-for-oracle-cloud-infrastructure-users</td>
+  <tr>
+    <td colspan="2" align="center"><h3>Identity Provider Integrations</h3></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h3>OCI IAM with Entra ID</h3></td>
+    <td colspan="2" align="center"><h4>OCI Identity Domains with ADFS</h4></td>
+  </tr>
+  <tr>
+    <td>OCI IAM with ADFS Tutorials</td>
+    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/tutorials/adfs/adfs_tutorials.htm</td>
+  </tr>
+  <tr>
+    <td>SSO Between OCI and ADFS</td>
+    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/tutorials/adfs/sso_adfs/adfs_sso.htm#azure-sso</td>
+  </tr>
+  <tr>
+    <td>JIT Provisioning from ADFS to OCI IAM</td>
+    <td> https://docs.oracle.com/en-us/iaas/Content/Identity/tutorials/adfs/jit_adfs/adfs_jit.htm#jit-get-started</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>OCI Identity Domains with Entra ID</h4></td>
   </tr>
   <tr>
     <td>OCI IAM with Entra ID Tutorials</td>
@@ -122,22 +140,21 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://blogs.oracle.com/cloudsecurity/post/managing-identity-across-oci-iam-and-azure-ad</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h3>OCI IAM with ADFS</h3></td>
+    <td colspan="2" align="center"><h4>OCI Identity Domains with Google Workspace</h4></td>
   </tr>
   <tr>
-    <td>OCI IAM with ADFS Tutorials</td>
-    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/tutorials/adfs/adfs_tutorials.htm</td>
+    <td>Federating OCI Identity Domains with Google Workspace</td>
+    <td>https://www.ateam-oracle.com/post/federating-oci-identity-domains-with-google-workspace</td>
   </tr>
   <tr>
-    <td>SSO Between OCI and ADFS</td>
-    <td>https://docs.oracle.com/en-us/iaas/Content/Identity/tutorials/adfs/sso_adfs/adfs_sso.htm#azure-sso</td>
+    <td colspan="2" align="center"><h4>OCI Identity Domains with PingOne</h4></td>
   </tr>
   <tr>
-    <td>JIT Provisioning from ADFS to OCI IAM</td>
-    <td> https://docs.oracle.com/en-us/iaas/Content/Identity/tutorials/adfs/jit_adfs/adfs_jit.htm#jit-get-started</td>
+    <td>Federating OCI Identity Domains with PingOne</td>
+    <td>https://docs.oracle.com/en/learn/oci-iam-pingone/index.html#introduction</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h3>OCI IAM with Okta</h3></td>
+    <td colspan="2" align="center"><h4>OCI Identity Domains with Okta</h4></td>
   </tr>
   <tr>
     <td>OCI IAM with Okta Tutorials</td>
@@ -167,22 +184,8 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Integrate Okta with Identity Domains for Single Sign-On and user provisioning</td>
     <td> https://docs.oracle.com/en/learn/integrating-identity-domains-with-okta/index.html</td>
   </tr>
-<tr>
-    <td colspan="2" align="center"><h3>OCI Identity Domains with Google Workspace</h3></td>
-  </tr>
   <tr>
-    <td>Federating OCI Identity Domains with Google Workspace</td>
-    <td>https://www.ateam-oracle.com/post/federating-oci-identity-domains-with-google-workspace</td>
-  </tr>
-  <tr>
-        <td colspan="2" align="center"><h3>OCI Identity Domains with Google PingOne</h3></td>
-  </tr>
-  <tr>
-    <td>Federating OCI Identity Domains with Google PingOne</td>
-    <td>https://docs.oracle.com/en/learn/oci-iam-pingone/index.html#introduction</td>
-  </tr>
-  <tr>
-        <td colspan="2" align="center"><h3>OCI Identity Domains with OneLogin</h3></td>
+    <td colspan="2" align="center"><h4>OCI Identity Domains with OneLogin</h4></td>
   </tr>
   <tr>
     <td>Set up Single Sign-On and User Provisioning between OCI IAM and OneLogin</td>
@@ -196,7 +199,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/lifecycle-of-timebound-access-in-access-governance</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h3>IAM without Identity Domains</h3> (To be deprecated)</td>
+    <td colspan="2" align="center"><h3>IAM without Identity Domains (Deprecated)</h3></td>
   </tr>
    <tr>
     <td>Federating with Microsoft Active Directory</td>
@@ -215,5 +218,3 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en-us/iaas/Content/Identity/Tasks/usingscim.htm</td>
   </tr>
 </table>
-
-
