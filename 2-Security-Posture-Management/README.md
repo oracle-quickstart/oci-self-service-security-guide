@@ -38,7 +38,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.public.oneportal.content.oci.oraclecloud.com/en-us/iaas/cloud-guard/using/export-notifs-config.htm</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h4>Reporting and Export</h4></td>
+    <td colspan="2" align="center"><h4>Reporting and Exporting</h4></td>
   </tr>
   <tr>
     <td>Retrieve Oracle Cloud Guard Problem Reports using a Python Script</td>
