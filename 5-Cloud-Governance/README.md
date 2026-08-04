@@ -89,7 +89,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/apply-budgets-easily</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h4>Reporting and Export</h4></td>
+    <td colspan="2" align="center"><h4>Reporting and Exporting</h4></td>
   </tr>
   <tr>
     <td>OCI Functions to send cost usage report via email</td>
