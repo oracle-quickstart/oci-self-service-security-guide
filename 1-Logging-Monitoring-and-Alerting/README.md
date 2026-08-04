@@ -230,7 +230,7 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/learn/oci-logs-streaming-kafka-logstash/index.html</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h3>Notifications, ßMonitoring & Alerting</h3></td>
+    <td colspan="2" align="center"><h3>Notifications, Monitoring & Alerting</h3></td>
   </tr>
   <tr>
     <td>Notification Overview</td>

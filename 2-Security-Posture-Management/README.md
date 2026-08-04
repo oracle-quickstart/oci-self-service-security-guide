@@ -32,10 +32,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.public.oneportal.content.oci.oraclecloud.com/en-us/iaas/cloud-guard/using/export-notifs-config.htm</td>
   </tr>
   <tr>
-    <td>Setting up Notifications for Oracle Cloud guard</td>
-    <td>https://blogs.oracle.com/cloudsecurity/post/quick-tip-4---setting-up-notifications-for-oracle-cloud-guard-in-3-easy-steps</td>
-  </tr>
-  <tr>
     <td>Retrieve Oracle Cloud Guard Problem Reports using a Python Script</td>
     <td>https://docs.oracle.com/en/learn/retrieve-ocg-prblmrpt</td>
   </tr>
@@ -48,20 +44,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.youtube.com/watch?v=M8fxxM0z7AA</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>Prisma Cloud</strong></td>
-  </tr>
-  <tr>
-    <td>Onboard Your Oracle Cloud Infrastructure Account</td>
-    <td>https://docs.prismacloud.io/en/enterprise-edition/content-collections/connect/connect-cloud-accounts/onboard-your-oci-account/onboard-your-oci-account</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>WIZ</strong></td>
-  </tr>
-  <tr>
-    <td>Wiz - Graph-based cloud security approach to OCI</td>
-    <td>https://blogs.oracle.com/cloudmarketplace/post/wiz-graph-based-cloud-security-approach-to-oci</td>
-  </tr>
-   <tr>
     <td colspan="2" align="center"><strong>Check Point CloudGuard CSPM</strong></td>
   </tr>
   <tr>
@@ -80,13 +62,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.lacework.net/onboarding/oci-integrate-lacework-overview</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>Zscaler Posture Control (ZPC)</strong></td>
-  </tr>
-  <tr>
-    <td>Onboarding an Oracle Cloud Infrastructure (OCI) Tenant</td>
-    <td>https://help.zscaler.com/zpc/onboarding-oracle-cloud-infrastructure-oci-tenant</td>
-  </tr>
-  <tr>
     <td colspan="2" align="center"><strong>Orca Security</strong></td>
   </tr>
   <tr>
@@ -94,11 +69,32 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://orca.security/resources/video/comprehensive-security-oracle-cloud/</td>
   </tr>
   <tr>
+    <td colspan="2" align="center"><strong>Prisma Cloud</strong></td>
+  </tr>
+  <tr>
+    <td>Onboard Your Oracle Cloud Infrastructure Account</td>
+    <td>https://docs.prismacloud.io/en/enterprise-edition/content-collections/connect/connect-cloud-accounts/onboard-your-oci-account/onboard-your-oci-account</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><strong>Qualys TotalCloud</strong></td>
   </tr>
   <tr>
     <td>Create Oracle Cloud Infrastructure Connectors</td>
     <td>https://docs.qualys.com/en/conn/latest/oci/oci_connectors.htm</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>WIZ</strong></td>
+  </tr>
+  <tr>
+    <td>Wiz - Graph-based cloud security approach to OCI</td>
+    <td>https://blogs.oracle.com/cloudmarketplace/post/wiz-graph-based-cloud-security-approach-to-oci</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Zscaler Posture Control (ZPC)</strong></td>
+  </tr>
+  <tr>
+    <td>Onboarding an Oracle Cloud Infrastructure (OCI) Tenant</td>
+    <td>https://help.zscaler.com/zpc/onboarding-oracle-cloud-infrastructure-oci-tenant</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Vulnerability scanning</strong></td>
@@ -124,4 +120,3 @@ The following table summarizes the curated list of resource URLs for this domain
    <td>If you are using a 3rd party enterprise-wide Vulnerability scanning tool (ex: Tenable Nessus, Rapid7, and others) our general recommendation is to use it for your OCI compute instances too.</td>
   </tr>
 </table>
-
