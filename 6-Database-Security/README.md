@@ -98,5 +98,12 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Authenticating users with OCI IAM Identity Domain with MFA using Radius Proxy for Oracle Database - Live Lab</td>
     <td>https://oracle-livelabs.github.io/security/oci-iam-radiusproxy-mfa-db/workshops/tenancy/index.html?lab=introduction</td>
   </tr>
+  <tr>
+    <td colspan="2" align="center"><h3>Advanced Database Security</h3></td>
+  </tr>
+  <tr>
+    <td>Defending Against Prompt Injection in Oracle AI Databases</td>
+    <td>https://rgutierrez2004.medium.com/defending-against-prompt-injection-in-oracle-ai-databases-1c36460774b1</td>
+  </tr>
   
 </table>
