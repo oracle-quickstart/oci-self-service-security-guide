@@ -87,6 +87,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td colspan="2" align="center"><h4>Implementation Guides</h4></td>
   </tr>
   <tr>
+    <td>Password-less connection to the Oracle AI Database using OCI Resource Principals</td>
+    <td>https://www.youtube.com/watch?v=zrQwty-y3AI</td>
+  </tr>
+  <tr>
     <td>Oracle Database Native Users Multi-Factor Authentication (MFA)</td>
     <td>https://docs.oracle.com/en/learn/mfa-db23ai-oma/index.html#introduction</td>
   </tr>
