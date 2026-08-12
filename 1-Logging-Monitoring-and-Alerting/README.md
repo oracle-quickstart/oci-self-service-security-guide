@@ -114,6 +114,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/oci-streaming-to-siem-unmasking-missing-events-with-a-python-kafka-consumer</td>
   </tr>
   <tr>
+    <td>Kafka Connect with OCI Streaming</td>
+    <td>https://www.ateam-oracle.com/kafka-connect-with-oci-streaming</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><strong>Azure Sentinel Integration</strong></td>
   </tr>
   <tr>
