@@ -10,57 +10,27 @@ The following table summarizes the curated list of resource URLs for this domain
     <th>URL</th>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>Multicloud Security</strong></td>
+    <td colspan="2" align="center"><h3>Oracle Data Safe</h3></td>
   </tr>
   <tr>
-    <td>Introduction Video on Database@Azure</td>
-    <td>https://youtu.be/CfKdDCnE-KE</td>
+    <td colspan="2" align="center"><h4>Introduction</h4></td>
   </tr>
   <tr>
-    <td>Build a secure multicloud architecture for Oracle Database@Azure</td>
-    <td>https://docs.oracle.com/en/solutions/secure-db-azure/index.html</td>
+    <td>Oracle Data Safe Documentation - Get started</td>
+    <td>https://docs.oracle.com/en/cloud/paas/data-safe/</td>
   </tr>
   <tr>
-    <td>Integrate Oracle Data Safe and OCI Logging Analytics with OCI IAM and Microsoft Entra ID</td>
-    <td>https://docs.oracle.com/en/learn/oracle-datasafe-logginganalytics/#introduction</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Data Safe</strong></td>
+    <td>Simplify Database Security Posture Management with Oracle Data Safe</td>
+    <td>https://docs.oracle.com/en/learn/oracle-datasafe-db-security-mgmt/#audience</td>
   </tr>
   <tr>
     <td>Get Started with Oracle Data Safe Fundamentals – Live Lab</td>
     <td>https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=598&clear=180</td>
   </tr>
-   <tr>
-    <td>Oracle Data Safe Documentation - Get started</td>
-    <td>https://docs.oracle.com/en/cloud/paas/data-safe/</td>
-  </tr>
-   <tr>
-    <td>Simplify Database Security Posture Management with Oracle Data Safe</td>
-    <td>https://docs.oracle.com/en/learn/oracle-datasafe-db-security-mgmt/#audience</td>
-  </tr>
-
   <tr>
-    <td>Oracle Data Safe: Continuous Assessment and Drift Detection</td>
-    <td>https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_event_id=339826926174411022084472967537894259948&session=205641170939544</td>
+    <td colspan="2" align="center"><h4>Target Registration and Connectivity</h4></td>
   </tr>
-   <tr>
-    <td>Oracle Data Safe: Audit Policy Management</td>
-    <td>https://blogs.oracle.com/cloudsecurity/post/announcing-audit-policy-management-using-audit-insights-in-oracle-data-safe</td>
-  </tr>
-   <tr>
-    <td>Oracle Data Safe: Address Audit Data Retention Requirements</td>
-    <td>https://blogs.oracle.com/cloudsecurity/post/audit-data-retention-with-oracle-data-safe</td>
-  </tr>
-   <tr>
-    <td>Oracle Data Safe: Managing Database User Profiles</td>
-    <td>https://blogs.oracle.com/cloudsecurity/post/unlock-power-of-database-user-profiles-with-data-safe</td>
-  </tr>
-   <tr>
-    <td>Oracle Data Safe: Simplified Notifications</td>
-    <td>https://blogs.oracle.com/database/post/data-safe-notifications</td>
-  </tr>
-   <tr>
+  <tr>
     <td>Oracle Data Safe: Target Registration using OCI CLI</td>
     <td>https://giansartordbsec.com/2023/12/06/oracle-data-safe-register-targets-using-oci-command-line-interface/</td>
   </tr>
@@ -69,20 +39,71 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/solutions/data-safe-exadata-adb/index.html</td>
   </tr>
   <tr>
+    <td colspan="2" align="center"><h4>Operational Capabilities</h4></td>
+  </tr>
+  <tr>
+    <td>Security Assessment Scheduling, Baselines, and Drift Detection</td>
+    <td>https://docs.oracle.com/en-us/iaas/data-safe/doc/security-assessment-overview.html</td>
+  </tr>
+   <tr>
+    <td>Manage Audit Policies with Oracle Data Safe Security Policies</td>
+    <td>https://docs.oracle.com/en-us/iaas/data-safe/doc/manage-security-policies.html</td>
+  </tr>
+   <tr>
+    <td>Manage Audit Data Retention with Audit Profiles</td>
+    <td>https://docs.oracle.com/en-us/iaas/data-safe/doc/audit-profiles.html</td>
+  </tr>
+   <tr>
+    <td>Assess Database User Profiles with Oracle Data Safe</td>
+    <td>https://docs.oracle.com/en-us/iaas/data-safe/doc/user-profiles.html</td>
+  </tr>
+   <tr>
+    <td>Oracle Data Safe: Simplified Notifications</td>
+    <td>https://blogs.oracle.com/database/post/data-safe-notifications</td>
+  </tr>
+  <tr>
     <td>Oracle Data Safe - SQL Firewall overview</td>
     <td>https://docs.oracle.com/en/cloud/paas/data-safe/udscs/sql-firewall-overview.html</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>Database Authentication</strong></td>
+    <td colspan="2" align="center"><h3>Multicloud Database Security</h3></td>
+  </tr>
+  <tr>
+    <td>Build a secure multicloud architecture for Oracle Database@Azure</td>
+    <td>https://docs.oracle.com/en/solutions/secure-db-azure/index.html</td>
+  </tr>
+  <tr>
+    <td>Introduction Video on Database@Azure</td>
+    <td>https://youtu.be/CfKdDCnE-KE</td>
+  </tr>
+  <tr>
+    <td>Integrate Oracle Data Safe and OCI Logging Analytics with OCI IAM and Microsoft Entra ID</td>
+    <td>https://docs.oracle.com/en/learn/oracle-datasafe-logginganalytics/#introduction</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h3>Database Authentication</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Implementation Guides</h4></td>
+  </tr>
+  <tr>
+    <td>Password-less connection to the Oracle AI Database using OCI Resource Principals</td>
+    <td>https://www.youtube.com/watch?v=zrQwty-y3AI</td>
+  </tr>
+  <tr>
+    <td>Oracle Database Native Users Multi-Factor Authentication (MFA)</td>
+    <td>https://docs.oracle.com/en/learn/mfa-db23ai-oma/index.html#introduction</td>
   </tr>
   <tr>
     <td>Authenticating users with OCI IAM Identity Domain with MFA using Radius Proxy for Oracle Database - Live Lab</td>
     <td>https://oracle-livelabs.github.io/security/oci-iam-radiusproxy-mfa-db/workshops/tenancy/index.html?lab=introduction</td>
   </tr>
   <tr>
-    <td>Oracle Database Native Users Multi-Factor Authentication (MFA)</td>
-    <td>https://docs.oracle.com/en/learn/mfa-db23ai-oma/index.html#introduction</td>
+    <td colspan="2" align="center"><h3>Advanced Database Security</h3></td>
+  </tr>
+  <tr>
+    <td>Defending Against Prompt Injection in Oracle AI Databases</td>
+    <td>https://rgutierrez2004.medium.com/defending-against-prompt-injection-in-oracle-ai-databases-1c36460774b1</td>
   </tr>
   
 </table>
-

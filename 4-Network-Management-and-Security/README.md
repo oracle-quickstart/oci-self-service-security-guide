@@ -9,9 +9,16 @@ The following table summarizes the curated list of resource URLs for this domain
     <th>URL</th>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h2>Network Design</h2></td>
+    <td colspan="2" align="center"><h3>Network Design</h3></td>
 </tr>
- <tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Network Foundations</h4></td>
+  </tr>
+  <tr>
+    <td>Traditional Networks to the Cloud – The OSI Model</td>
+    <td>https://www.ateam-oracle.com/osi-model</td>
+  </tr>
+  <tr>
     <td>Network deployments on OCI</td>
     <td>https://docs.oracle.com/en/solutions/oci-network-deployment/index.html</td>
   </tr>
@@ -20,12 +27,18 @@ The following table summarizes the curated list of resource URLs for this domain
     <td> https://www.ateam-oracle.com/post/oci-networking-best-practices-recommendations-and-tips---part-one---general-oci-networking</td>
   </tr>
   <tr>
-    <td>OCI Network Security Best Practices, Recommendations, and Tips</td>
-    <td>https://www.ateam-oracle.com/post/oci-networking-best-practices---part-two---oci-network-security </td>
+    <td colspan="2" align="center"><h4>Network Security Design</h4></td>
   </tr>
- <tr>
-    <td>Traditional Networks to the Cloud – The OSI Model</td>
-    <td>https://www.ateam-oracle.com/osi-model</td>
+  <tr>
+    <td>OCI Network Security Best Practices, Recommendations, and Tips</td>
+    <td>https://www.ateam-oracle.com/post/oci-networking-best-practices---part-two---oci-network-security</td>
+  </tr>
+  <tr>
+    <td>Securing Inter-VCN Connectivity with ZPR</td>
+    <td>https://www.ateam-oracle.com/securing-inter-vcn-connectivity-with-zpr</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Firewall Patterns</h4></td>
   </tr>
   <tr>
     <td>OCI Network Firewall Video Series - Intro</td>
@@ -56,6 +69,13 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/nat-on-oci-network-firewall</td>
   </tr>
   <tr>
+    <td>OCI Network Firewall - Source NAT</td>
+    <td>https://www.youtube.com/watch?v=_dyMI2taL08</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>IP Addressing and DNS</h4></td>
+  </tr>
+  <tr>
     <td>Enhancing IP Address Management with OCI New Tool – IP Address Insight</td>
     <td>https://www.ateam-oracle.com/post/oci-ip-address-insight</td>
   </tr> 
@@ -80,39 +100,14 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/oci-private-dns-best-practices</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>Multicloud</strong></td>
+    <td colspan="2" align="center"><h3>Network Connectivity</h3></td>
 </tr>
- <tr>
-    <td>Design a Multicloud Network to Deploy Oracle Database@Azure</td>
-    <td>https://docs.oracle.com/en/solutions/network-for-db-at-azure/index.html#GUID-82966157-B6C0-4F80-AD7B-63E0D9931DCC</td>
-  </tr>
- <tr>
-    <td>Networking Fundamentals for Oracle Database@Azure</td>
-    <td>https://www.ateam-oracle.com/post/networking-fundamentals-for-oracle-databaseazure</td>
-  </tr>
- <tr>
-    <td>Networking Fundamentals for Oracle DB@AWS</td>
-    <td>https://www.ateam-oracle.com/networking-fundamentals-for-oracle-dbaws</td>
-  </tr>
   <tr>
-    <td colspan="2" align="center"><h2>Network Connectivity</h2></td>
-</tr>
+    <td colspan="2" align="center"><h4>General Connectivity</h4></td>
+  </tr>
   <tr>
     <td>OCI Network Connectivity</td>
     <td>https://www.ateam-oracle.com/post/oci-networking-best-practices---part-3---oci-network-connectivity</td>
-  </tr>
-  <tr>
-    <td>Oracle Database at Azure DNS options</td>
-    <td>https://www.ateam-oracle.com/post/oracle-database-at-azure-dns-options</td>
-  </tr>
-  <tr>
-    <td>DNS resolution for Oracle Database at AWS</td>
-    <td>https://www.ateam-oracle.com/dns-resolution-odbaws</td>
-  </tr>
-
-  <tr>
-    <td>Configure the DNS resolution for Oracle Database at AWS</td>
-    <td>https://www.ateam-oracle.com/configure-the-dns-resolution-for-oracle-database-at-aws</td>
   </tr>
   <tr>
     <td>FastConnect Public Peering: Architectures and Use Cases</td>
@@ -131,6 +126,48 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en-us/iaas/Content/Network/Tasks/drg-get-upgrade-status.htm#drg-get_upgrade_status</td>
   </tr>
   <tr>
+    <td>User-based Access on OCI using OpenVPN</td>
+    <td>https://www.ateam-oracle.com/post/userbased-access-on-oci-using-openvpn</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Multicloud Connectivity</h4></td>
+  </tr>
+  <tr>
+    <td>Design a Multicloud Network to Deploy Oracle Database@Azure</td>
+    <td>https://docs.oracle.com/en/solutions/network-for-db-at-azure/index.html#GUID-82966157-B6C0-4F80-AD7B-63E0D9931DCC</td>
+  </tr>
+  <tr>
+    <td>Networking Fundamentals for Oracle Database@Azure</td>
+    <td>https://www.ateam-oracle.com/post/networking-fundamentals-for-oracle-databaseazure</td>
+  </tr>
+  <tr>
+    <td>Networking Fundamentals for Oracle DB@AWS</td>
+    <td>https://www.ateam-oracle.com/networking-fundamentals-for-oracle-dbaws</td>
+  </tr>
+  <tr>
+    <td>Networking Fundamentals for Oracle AI DB@GCP</td>
+    <td>https://www.ateam-oracle.com/networking-fundamentals-for-oracle-dbgcp</td>
+  </tr>
+  <tr>
+    <td>Oracle DB@AWS – Internet Outbound Traffic</td>
+    <td>https://www.ateam-oracle.com/oracle-dbaws-internet-outbound-traffic</td>
+  </tr>
+  <tr>
+    <td>Oracle Database at Azure DNS options</td>
+    <td>https://www.ateam-oracle.com/post/oracle-database-at-azure-dns-options</td>
+  </tr>
+    <td>DNS resolution with Network Anchors in the Oracle Database at Azure</td>
+    <td>https://www.ateam-oracle.com/dns-network-anchors-odaa</td>
+  </tr>
+  <tr>
+    <td>DNS resolution for Oracle Database at AWS</td>
+    <td>https://www.ateam-oracle.com/dns-resolution-odbaws</td>
+  </tr>
+  <tr>
+    <td>Configure the DNS resolution for Oracle Database at AWS</td>
+    <td>https://www.ateam-oracle.com/configure-the-dns-resolution-for-oracle-database-at-aws</td>
+  </tr>
+  <tr>
     <td>Equinix Virtual Router Multi-cloud Connectivity - Live Lab</td>
     <td>https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3759</td>
   </tr>
@@ -146,7 +183,6 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>OCI-AWS interconnect using Equinix FCR</td>
     <td>https://blogs.oracle.com/ateam/post/ociaws-interconnect-using-equinix-fcr</td>
   </tr>
-
   <tr>
     <td>Direct Multicloud FastConnect via Cross Connect</td>
     <td>https://www.ateam-oracle.com/direct-multicloud-fastconnect-via-cross-connect</td>
@@ -156,22 +192,17 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://blogs.oracle.com/ateam/post/setting-up-sitetosite-vpn-connectivity-from-oci-to-azure-virtual-wan</td>
   </tr>
   <tr>
-    <td>User-based Access on OCI using OpenVPN</td>
-    <td>https://www.ateam-oracle.com/post/userbased-access-on-oci-using-openvpn</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><h2>Network Monitoring</h2></td>
+    <td colspan="2" align="center"><h3>Network Monitoring</h3></td>
 </tr>
 <tr>
     <td>OCI Networking Best Practices-OCI Network Monitoring, Observability, and Management</td>
     <td>https://www.ateam-oracle.com/post/oci-networking-best-practices-part-four-oci-network-monitoring-observability-and-management</td>
   </tr>
   <tr>
-    <td>OCI Load Balancers - Logging the real source IP</td>
-    <td>https://www.ateam-oracle.com/post/oci-load-balancers-logging-the-real-source-ip</td>
+    <td colspan="2" align="center"><h4>VCN Flow Logs</h4></td>
   </tr>
   <tr>
-    <td>VCN Flow logs concepts</td>
+    <td>VCN Flow Logs Concepts</td>
     <td>https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/vcn-flow-logs.htm</td>
   </tr>
   <tr>
@@ -189,6 +220,13 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>Optimizing OCI Network Security using OCI Flow Logs</td>
     <td>https://www.ateam-oracle.com/post/optimizing-oci-network-security-lists-using-oci-flow-logs</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Load Balancer Logging</h4></td>
+  </tr>
+  <tr>
+    <td>OCI Load Balancers - Logging the real source IP</td>
+    <td>https://www.ateam-oracle.com/post/oci-load-balancers-logging-the-real-source-ip</td>
   </tr>
 
 </table>
