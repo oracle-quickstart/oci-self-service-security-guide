@@ -34,6 +34,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/learn/aws-oci-secrets/#introduction</td>
   </tr>
   <tr>
+    <td>OCI Secret Rules Best Practices: Reuse, Expiry, and What Actually Happens</td>
+    <td>https://www.ateam-oracle.com/oci-secret-rules-best-practices-reuse-expiry-and-what-actually-happens</td>
+  </tr>
+  <tr>
     <td>Automatically Rotate OCI Secrets using a Custom Function</td>
     <td>https://www.ateam-oracle.com/post/automatically-rotate-oci-secrets-using-a-custom-function</td>
   </tr>
