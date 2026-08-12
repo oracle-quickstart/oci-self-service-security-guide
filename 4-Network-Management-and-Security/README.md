@@ -148,6 +148,9 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>Oracle Database at Azure DNS options</td>
     <td>https://www.ateam-oracle.com/post/oracle-database-at-azure-dns-options</td>
   </tr>
+    <td>DNS resolution with Network Anchors in the Oracle Database at Azure</td>
+    <td>https://www.ateam-oracle.com/dns-network-anchors-odaa</td>
+  </tr>
   <tr>
     <td>DNS resolution for Oracle Database at AWS</td>
     <td>https://www.ateam-oracle.com/dns-resolution-odbaws</td>
