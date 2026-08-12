@@ -31,7 +31,11 @@ The following table summarizes the curated list of resource URLs for this domain
   </tr>
   <tr>
     <td>OCI Network Security Best Practices, Recommendations, and Tips</td>
-    <td>https://www.ateam-oracle.com/post/oci-networking-best-practices---part-two---oci-network-security </td>
+    <td>https://www.ateam-oracle.com/post/oci-networking-best-practices---part-two---oci-network-security</td>
+  </tr>
+  <tr>
+    <td>Securing Inter-VCN Connectivity with ZPR</td>
+    <td>https://www.ateam-oracle.com/securing-inter-vcn-connectivity-with-zpr</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><h4>Firewall Patterns</h4></td>
