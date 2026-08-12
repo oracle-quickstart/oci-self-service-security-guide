@@ -137,6 +137,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/networking-fundamentals-for-oracle-dbaws</td>
   </tr>
   <tr>
+    <td>Networking Fundamentals for Oracle AI DB@GCP</td>
+    <td>https://www.ateam-oracle.com/networking-fundamentals-for-oracle-dbgcp</td>
+  </tr>
+  <tr>
     <td>Oracle Database at Azure DNS options</td>
     <td>https://www.ateam-oracle.com/post/oracle-database-at-azure-dns-options</td>
   </tr>
