@@ -69,6 +69,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/nat-on-oci-network-firewall</td>
   </tr>
   <tr>
+    <td>OCI Network Firewall - Source NAT</td>
+    <td>https://www.youtube.com/watch?v=_dyMI2taL08</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><h4>IP Addressing and DNS</h4></td>
   </tr>
   <tr>
