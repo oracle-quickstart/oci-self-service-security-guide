@@ -69,6 +69,10 @@ The following table summarizes the curated list of resource URLs for this domain
    <td>Secure Access to the Object Storage using Private Endpoints</td>
    <td>https://www.ateam-oracle.com/post/secure-access-os-private-endpoints</td>
   </tr>
+  <tr>
+    <td>Elevating Cloud Security Through Server-less Automation</td>
+    <td>https://www.ateam-oracle.com/elevating-cloud-security-through-server-less-automation</td>
+  </tr>
 
 
 </table>

@@ -66,6 +66,13 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/cloud/paas/data-safe/udscs/sql-firewall-overview.html</td>
   </tr>
   <tr>
+    <td colspan="2" align="center"><h4>SIEM Integration</h4></td>
+  </tr>
+  <tr>
+    <td>Building a Serverless SIEM Integration for Oracle Data Safe Using OCI Streaming and OCI Functions</td>
+    <td>https://www.ateam-oracle.com/building-a-serverless-siem-integration-for-oracle-data-safe-using-oci-streaming-and-oci-functions</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><h3>Multicloud Database Security</h3></td>
   </tr>
   <tr>

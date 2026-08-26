@@ -114,6 +114,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/oci-streaming-to-siem-unmasking-missing-events-with-a-python-kafka-consumer</td>
   </tr>
   <tr>
+    <td>The Case of the Missing Audit Data</td>
+    <td>https://www.ateam-oracle.com/the-case-of-the-missing-audit-data</td>
+  </tr>
+  <tr>
     <td>Kafka Connect with OCI Streaming</td>
     <td>https://www.ateam-oracle.com/kafka-connect-with-oci-streaming</td>
   </tr>
@@ -160,6 +164,13 @@ The following table summarizes the curated list of resource URLs for this domain
     (Use OCI Streams as source of type 'kafka' and 'datadog logs' as destination)</td>
   </tr>
   <tr>
+    <td colspan="2" align="center"><strong>OCI OpenSearch Integration</strong></td>
+  </tr>
+  <tr>
+    <td>Integrating OCI OpenSearch with OCI Streaming</td>
+    <td>https://www.ateam-oracle.com/integrating-oci-opensearch-with-oci-streaming</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><strong>QRadar Integration</strong></td>
   </tr>
   <tr>
@@ -183,6 +194,10 @@ The following table summarizes the curated list of resource URLs for this domain
   <tr>
     <td>Stream OCI logs using OCI Streaming and Kafka Connect to Splunk</td>
     <td>https://blogs.oracle.com/cloud-infrastructure/post/stream-oci-logs-kafka-connect-splunk</td>
+  </tr>
+  <tr>
+    <td>Building a Serverless SIEM Integration for Oracle Data Safe Using OCI Streaming and OCI Functions</td>
+    <td>https://www.ateam-oracle.com/building-a-serverless-siem-integration-for-oracle-data-safe-using-oci-streaming-and-oci-functions</td>
   </tr>
   <tr>
     <td>Splunk Addon for OCI - Setup documentation on Git Hub</td>
@@ -215,6 +230,13 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/learn/blog_sumologic/index.html</td>
   </tr>
   <tr>
+    <td colspan="2" align="center"><strong>Wazuh Integration</strong></td>
+  </tr>
+  <tr>
+    <td>Wazuh on OCI - Part 1: Deploying Wazuh on Oracle Kubernetes Engine</td>
+    <td>https://www.ateam-oracle.com/wazuh-on-oci-part-1-deploying-wazuh-on-oracle-kubernetes-engine</td>
+  </tr>
+  <tr>
     <td colspan="2" align="center"><h4>Log Shipper Integrations</h4></td>
   </tr>
   <tr>
@@ -234,11 +256,22 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://docs.oracle.com/en/learn/oci-logs-streaming-kafka-logstash/index.html</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h3>Notifications, Monitoring & Alerting</h3></td>
+    <td colspan="2" align="center"><h3>Notifications, Monitoring, Alerting & Observability</h3></td>
   </tr>
   <tr>
     <td>Notification Overview</td>
     <td> https://docs.oracle.com/en-us/iaas/Content/Notification/Concepts/notificationoverview.htm</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h4>Cloud-Native Application Observability</h4></td>
+  </tr>
+  <tr>
+    <td>Designing Observability for Cloud-Native Applications on OCI – Part 1: Distributed Tracing with OpenTelemetry and OCI APM</td>
+    <td>https://www.ateam-oracle.com/designing-observability-for-cloud-native-applications-on-oci-part-1-distributed-tracing-with-opentelemetry-and-oci-apm</td>
+  </tr>
+  <tr>
+    <td>Designing Observability for Cloud-Native Applications on OCI – Part 2: Kubernetes-Aware Troubleshooting with OCI APM, Log Analytics, and AI Summaries</td>
+    <td>https://www.ateam-oracle.com/designing-observability-for-cloud-native-applications-on-oci-part-2-kubernetes-aware-troubleshooting-with-apm-log-analytics-and-ai-summaries</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><h4>Configuration</h4></td>

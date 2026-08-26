@@ -59,6 +59,10 @@ The following table summarizes the curated list of resource URLs for this domain
     <td>https://www.ateam-oracle.com/post/using-cron-to-make-a-tag-autoupdating</td>
   </tr>
   <tr>
+    <td>Using OCI Functions to Tag Compute Instances with Metadata for Cost Analysis</td>
+    <td>https://www.ateam-oracle.com/using-oci-functions-to-tag-compute-instances-with-metadata-for-cost-analysis</td>
+  </tr>
+  <tr>
     <td>You Down With OTT (the OCI Tagging Tool)?</td>
     <td>https://www.ateam-oracle.com/post/you-down-with-ott-the-oci-tagging-tool</td>
   </tr>
